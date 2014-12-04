@@ -1,0 +1,7 @@
+site_name: NorthPointe Styleguide
+# pages:
+# - ['index.md', 'Introduction']
+# - ['style-guide/index.md', 'Style Guide']
+# - ['style-guide/voice-and-tone.md', 'Style Guide', 'Voice and Tone']
+# - ['style-guide/writing-for-northpointe.md', 'Style Guide', 'Writing for Northpointe']
+theme: readthedocs
