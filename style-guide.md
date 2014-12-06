@@ -44,6 +44,9 @@ Writing for NorthPointe
 
 When you finish writing an article read it out loud to yourself. That might sound like a silly exercise, but it's important we maintain an approachable tone.
 
+Some tips: Picture your audience and write for them. It’s not about you. Tell a story. Paint a picture. It’s far more memorable. Your copy is a roadmap that can’t afford detours. So, make a single point.
+Say what’s important. Forget the rest.
+
 
 Writing for the web
 -------------------
