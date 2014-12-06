@@ -243,6 +243,7 @@ Word and Phrase Bank
 
 - hashtag
 - homepage
+- KidsCore
 - NPCC.me
 - NP Kids
 - online
