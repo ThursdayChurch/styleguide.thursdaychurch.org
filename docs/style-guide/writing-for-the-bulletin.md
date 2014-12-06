@@ -14,6 +14,43 @@ On Sunday mornings we interact with
 
 NorthPointe is all about reaching non-churchgoers and the bulletin is our opportunity 
 
+## Good Vs Bad
+
+**Bad**
+
+NORTHPOINTE 25TH ANNIVERSARY!
+NorthPointe Community Church is celebrating
+their 25th anniversary on September 21 at
+Wild Waters in Clovis. God has
+done so much for us in 25 years at NorthPointe. 
+
+- No need for exclamation points in a well-crafted headline
+- No need to lead with “NorthPointe Community Church” or include its location
+- No clarity on what the product delivers
+- No reason for our audience to care
+- No call to action
+
+**Good**
+
+GET READY TO CELEBRATE.
+Over the past twenty-five years of
+ministry at NorthPointe God has
+been powerfully at work in our midst,
+transforming countless lives into the image
+of His Son. And we each have a part in this
+story. Join us Saturday, September 21 at
+Wild Waters in Clovis. 
+
+
+- Headline speaks directly to the audience
+- Prompts involvement from the reader
+“we each have a part...”
+- Invites the audience to experience something different and new
+- Compels with careful choice of words
+- Offers a clear call to action
+
+
+
 ## Bulletin writing tips
 
 ### 1. Inform
