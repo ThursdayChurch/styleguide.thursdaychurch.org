@@ -195,9 +195,9 @@ Don't use them.
 Use common sense. When in doubt, don't capitalize. All caps is like yelling, just say no. Do *not* capitalize these words: website, internet, online, email. Capitalize pronouns when referencing God. *Examples: Creator,God, Father, Holy Sprit, He, Him*
 
 #### Commas
-Don't use the oxford comma.
+Use the oxford or serial comma.
 
-We interviewed some of our customers, Oprah and Justin Timberlake.
+We interviewed some of our customers, Oprah, and Justin Timberlake.
 
 Otherwise, follow common sense with commas. Read the sentence aloud. If you need to take a breath, use a comma.
 
@@ -211,7 +211,9 @@ Spell out the day and abbreviate the month. *Sunday, Jan. 24*
 Go easy on the exclamation points! Only use exclamation points when you're basically giving someone a high five. Never use them in titles or headings.
 
 #### Italics
-Italicize to emphasize a word, cite an example or indicate the title of a long work (books, movies, albums)
+Italicize to emphasize a word, cite an example or indicate the title of a long work (books, movies, albums).
+
+Scripture should be Italicized. 
 
 #### Numbers
 Spell out numbers one through nine and use numerals for 10 and above.  
