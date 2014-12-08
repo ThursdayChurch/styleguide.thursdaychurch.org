@@ -234,6 +234,7 @@ Always lowercase, never use www
 *northpointe.org*
 
 ### Biblical Style
+**Developing**
 
 #### Verse References
 Never abbreviate books of the Bible *Mark 3:21, Luke 2:10-11*
@@ -254,7 +255,7 @@ Word and Phrase Bank
 - sign up (verb)
 - username
 - URL (always uppercase)
-- Wherehouse
+- wherehouse (always lowercase)
 - WiFi
 
 #### Blacklist
