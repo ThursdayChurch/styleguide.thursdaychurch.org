@@ -17,9 +17,10 @@ NorthPointe is “Creating a positive faith environment where non-churchgoers ar
 
 NorthPointe is:
 
-- Informal, but not sloppy
-- Informative, but not academic
 - Welcoming, but not gushing
+- Informal, but not sloppy
+- Conversational, but not rambling
+- Informative, but not academic
 - Stylish, but not inaccessible
 - Crisp, but not trendy
 
@@ -35,8 +36,8 @@ We wouldn’t say:  You must log in before you are allowed to give.
 Instead, we’d say:  Looking for your give? Log in to NPCC.me
 
 We keep it positive.  
-We wouldn’t say:  You can’t send a campaign if you don’t have a list of subscribers.  
-Instead, we’d say: Upload a list of subscribers to get started on your first campaign.
+We wouldn’t say:  You can’t sign up for Core Class 201 until you’ve completed 101.  
+Instead, we’d say: To get started with Core Classes sign up for 101.
 
 
 Writing for NorthPointe
@@ -52,21 +53,21 @@ Writing for the web
 -------------------
 
 Don't skip the research. Know your stuff.
-Unerstand what you're saying and where you're saying it. A website is not the same as an invite.
+Understand what you're saying and where you're saying it. A website is not the same as an invite.
 
 Use the inverted pyramid style (Information/content flows top to bottom from most important to least important)
 Use short phrases
 Use active voice
 Never use "click on" or "click here"
 
-### Event Writeups
+### Event Write-ups
 
 
 
 ### Email Signature
 
 Garrett Johnson  
-Web Developer  
+Web Developer
 NorthPointe Church  
 northpointe.org  
 (559) 276-2300  
@@ -149,7 +150,7 @@ story. Join us 6pm Saturday, September 21 at Grizzly Stadium.
 Check for these basics:
 
 - Is it clear?
-- Does it sound like you?
+- Does it sound like NorthPointe?
 - Is every word true?
 - Can you cut any adjectives or modifiers?
 
@@ -176,7 +177,7 @@ Grammar and More
 Grammar is hard.
 
 #### Abbreviations and acronyms
-If there's a chance a reader won't recognize a abbreviation or acronym, spell it out the first time. If the abbreviation is more common than the long form, then use the short form (DVD)  
+If there's a chance a reader won't recognize an abbreviation or acronym, spell it out the first time. If the abbreviation is more common than the long form, then use the short form (DVD)  
 *Never use NPCC*
 
 #### Addresses
@@ -241,7 +242,7 @@ Always lowercase, never use www
 #### Verse References
 Never abbreviate books of the Bible *Mark 3:21, Luke 2:10-11*
 
-When citing translations use capitalized abbreviation ESV, NIV, MSG, NASB, etc.
+When citing translations use capitalized abbreviation ESV, NIV, MSG, NASB, etc. *Mark 3:21 (ESV)*
 
 
 Word and Phrase Bank
