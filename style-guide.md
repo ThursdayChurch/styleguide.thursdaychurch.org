@@ -1,9 +1,7 @@
 NorthPointe Style
 =================
 
-sfajlksdfajlkfasljksfjklfsdjklfsdjklsfdjklsdfjkldfs
-
-Have fun!
+Hi! If you work at NorthPointe you’re communicating every day. Whether you’re writing an email, blog post, or something else, this guide will cover some grammar basics, explain the types of content we publish, and give you a sense of NorthPointe’s personality. Consider this a set of standards to help you write solid and engaging content that suits our church—they’re not hard and fast rules. We’d rather be clear, informative, and entertaining writers than grammar nerds any day, so don’t get caught up in technicalities. And have fun!
 
 
 Voice and Tone
@@ -29,8 +27,13 @@ NorthPointe is:
 There’s a difference between voice and tone. Look at it this way: You have the same voice all the time, but your tone changes. You might speak in one tone to your closest friends and family, and a different tone with your boss. Your tone also changes depending on the emotional state of the person you’re addressing. You wouldn’t use the same tone of voice with someone who’s scared or upset as you would with someone who’s laughing. Same goes for NorthPointe's voice. Our voice doesn’t change much from day to day, but our tone changes all the time.
 When you’re writing, consider the reader’s state of mind. Adjust your tone accordingly.
 
+#### Be True
+- We don’t lie  
+- We don’t overpromise or bend the truth  
+*Our writing doesn’t bend the truth or use excessive adjectives. Because things that are “totally epic” usually aren’t*. 
+- We Stick to the facts
 
-### Be nice
+#### Be nice
 We’re experts, but we’re not bossy.  
 We wouldn’t say:  You must log in before you are allowed to give.  
 Instead, we’d say:  Looking for your give? Log in to NPCC.me
@@ -45,8 +48,31 @@ Writing for NorthPointe
 
 When you finish writing an article read it out loud to yourself. That might sound like a silly exercise, but it's important we maintain an approachable tone.
 
+
+
+That’s where copywriting comes in.
+
+
+
 Some tips: Picture your audience and write for them. It’s not about you. Tell a story. Paint a picture. It’s far more memorable. Your copy is a roadmap that can’t afford detours. So, make a single point.
+
 Say what’s important. Forget the rest.
+
+“You want hearts, not eyeballs.” - Austin Kleon, *Show Your Work*
+
+1. Use present tense: “NorthPointe gives”, and the present perfect: “We’ve meticulously crafted”
+2. Write from the first person plural perspective: we, not they
+3. Be brief and speak directly.
+4. Avoid exclamation points. If you must exclaim, use words that do  the exclaiming for you.
+
+
+#### Inform.
+#### Inspire.
+#### Read it out loud.
+Is it clear?
+Is it useful?
+Is it friendly?
+Is it true?
 
 
 Writing for the web
@@ -67,7 +93,7 @@ Never use "click on" or "click here"
 ### Email Signature
 
 Garrett Johnson  
-Web Developer
+Web Developer  
 NorthPointe Church  
 northpointe.org  
 (559) 276-2300  
@@ -161,7 +187,7 @@ Edit your work until it’s clear, honest, and sounds like something you’d say
 
 ### Formatting
 
-- *Dates* - Saturday, 11/16 or Every Saturday
+- *Dates* - Saturday, Nov 16 or Every Saturday
 - *Times* - 6:30pm, 6pm (No space or periods)
 
 #### Bulletin Blacklist
@@ -248,17 +274,23 @@ When citing translations use capitalized abbreviation ESV, NIV, MSG, NASB, etc. 
 Word and Phrase Bank
 --------------------
 
+### Ministry Names
+- Celebrate Recovery (Never CR)
+- KidsCore
+- NailBenders
+- NP Kids
+- SURGE
+- wherehouse (always lowercase)
+
+### Word and Phrase Bank
 - hashtag
 - homepage
-- KidsCore
 - NPCC.me
-- NP Kids
 - online
 - signup (noun, adjective)
 - sign up (verb)
 - username
 - URL (always uppercase)
-- wherehouse (always lowercase)
 - WiFi
 
 #### Blacklist
@@ -266,4 +298,5 @@ Word and Phrase Bank
 Don’t use these words and phrases:
 
 - click here
+- and much more
 - anything related to politics

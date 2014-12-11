@@ -180,6 +180,11 @@ a:hover {
   position: relative;
   font-size: 20px;
 }
+
+.content ol > li {
+  font-size: 20px;
+}
+
 .content ul > li:before {
   content: '';
   display: block;
