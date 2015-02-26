@@ -809,6 +809,7 @@ a.big.button:hover:visited {
   border-bottom: 1px solid #eeeeee;
 }
 
+
 .menu a.active {
   /*Active styles*/
 }
@@ -856,4 +857,8 @@ code .comment {
   position: relative;
   z-index: 1;
 }
+
+
+ul.level-2 { display: none; }
+ul.level-3 { display: none; }
 
