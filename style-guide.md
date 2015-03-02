@@ -7,9 +7,7 @@ Hi! If you work at NorthPointe you’re communicating every day. Whether you’r
 Voice and Tone
 --------------
 
-NorthPointe's voice is human. It’s familiar, it’s friendly, and it’s straightforward. Our priority is to inspire and inform people to...
-
-We use language that educates and empowers people without patronizing or confusing them.
+NorthPointe's voice is human. It’s familiar, it’s friendly, and it’s straightforward. Our voice is simply an extension of the platform on Sunday morning. In everything we do, we want to inspire and inform people to action. We inspire action by using language that educates and empowers people without patronizing or confusing them.
 
 NorthPointe is “Creating a positive faith environment where non-churchgoers are encouraged to become fully-developing followers of Jesus Christ at every stage of life.” and that spirit should come through in every piece of content we produce.
 
@@ -86,8 +84,19 @@ Use short phrases
 Use active voice
 Never use "click on" or "click here"
 
-### Event Write-ups
+### Blog Posts
 
+> “Part of the struggle in learning to write is learning to ignore what isn’t useful to you and pay attention to what is…This is a book full of starting points. Perhaps they’ll help you find enough clarity in your own mind and your own writing to discover what it means to write. I don’t mean ‘write the way I do’ or ‘write the way they do.’ I mean ‘write the way you do.’” - *Verlyn Klinkenborg*
+
+#### Just Write
+
+When you’re done writing:
+
+- Read it out loud
+- Aim for clarity over brevity
+- **Craft a headline** - Be direct, but nice.
+
+### Event Write-ups
 
 
 ### Email Signature
@@ -103,7 +112,7 @@ Writing for the Bulletin
 ------------------------
 
 Every non-churchgoer has a first Sunday. A morning where they walk in *(early)*, grab a bulletin, sit down, and start picking through it. 
-They're apprehensive, nervous, anxious... 
+They're apprehensive, nervous, maybe a bit anxious. NorthPointe is all about reaching these guests, and the bulletin is our opportunity to put them at ease.
 
 **Quick Tips**
 
@@ -111,10 +120,6 @@ They're apprehensive, nervous, anxious...
 - Avoid history, but look to the future. 
 - Get to the point.
 
-
-On Sunday mornings we interact with 
-
-NorthPointe is all about reaching non-churchgoers and the bulletin is our opportunity 
 
 ### Good Vs Bad
 
@@ -176,11 +181,22 @@ story. Join us 6pm Saturday, September 21 at Grizzly Stadium.
 Check for these basics:
 
 - Is it clear?
+- Is it active (and not passive)?
 - Does it sound like NorthPointe?
 - Is every word true?
 - Can you cut any adjectives or modifiers?
+- Does it respect our audience?
 
 Take out any white lies or fluff. Watch out for filler words like *especially* etc
+
+When our guests read the bulletin we want to respect them, and welcome them into the life of the church. They want to be informed, not mothered or lectured. Lose the excessively prescriptive and the moralizing, because it can come off as condescending.
+
+- Don’t forget…
+- We need… 
+- Never…
+- Avoid…
+- Don’t…
+- Remember to… 
 
 Edit your work until it’s clear, honest, and sounds like something you’d say to a friend or neighbor. Tell them how you really feel, and be patient with yourself while you rework the copy.
 
@@ -202,9 +218,7 @@ Grammar and More
 
 Grammar is hard.
 
-#### Abbreviations and acronyms
-If there's a chance a reader won't recognize an abbreviation or acronym, spell it out the first time. If the abbreviation is more common than the long form, then use the short form (DVD)  
-*Never use NPCC*
+### Formatting
 
 #### Addresses
 **One Line**  
@@ -215,11 +229,38 @@ If there's a chance a reader won't recognize an abbreviation or acronym, spell i
 Suite 101  
 Fresno, CA 93711
 
+#### Email
+Use all lowercase for email addresses.  
+*johndoe@northpointe.org*
+
+Never publish personal email addresses. Email should only be publicized for direct and personal contact. Call to action requests (i.e. RSVP, Register) should use a form.
+
+#### Telephone numbers
+Use (559) 650-2000 ext. 213
+
+Note: Never publish personal phone numbers. Always use a NorthPointe phone number and extension.
+
+#### Times
+Use numerals and am or pm without a space. Don’t use minutes for on-the hour times. *7am 10:30pm*
+Use a hyphen between times to indicate a time period.  
+7am-10:30pm
+7-10am
+
+#### Web Addresses
+Always lowercase, never use www  
+*northpointe.org*
+
+### Grammar and Punctuation
+
+#### Abbreviations and acronyms
+If there's a chance a reader won't recognize an abbreviation or acronym, spell it out the first time. If the abbreviation is more common than the long form, then use the short form (DVD)  
+*Never use NPCC*
+
 #### Ampersands
 Don't use them.
 
 #### Capitalization
-Use common sense. When in doubt, don't capitalize. All caps is like yelling, just say no. Do *not* capitalize these words: website, internet, online, email. Capitalize pronouns when referencing God. *Examples: Creator,God, Father, Holy Sprit, He, Him*
+Use common sense. When in doubt, don't capitalize. All caps is like yelling, just say no. Do *not* capitalize these words: website, internet, online, email. Capitalize pronouns when referencing God. *Examples: Creator, God, Father, Holy Sprit, He, Him*
 
 #### Commas
 Use the oxford or serial comma.
@@ -232,7 +273,7 @@ Otherwise, follow common sense with commas. Read the sentence aloud. If you need
 Use them!
 
 #### Dates
-Spell out the day and abbreviate the month. *Sunday, Jan. 24*
+Spell out the day and abbreviate the month. *Sunday, Jan 24*
 
 #### Exclamation points
 Go easy on the exclamation points! Only use exclamation points when you're basically giving someone a high five. Never use them in titles or headings.
@@ -249,21 +290,10 @@ Use a hyphen for a span of numbers. *It takes 20-30 days*
 #### Pronouns
 Don't use "they" or "one" as singular pronouns. Use "she" or "he" or avoid it altogether.
 
-#### Telephone numbers
-Use (559) 650-2000
-
-#### Times
-Use numerals and am or pm without a space. Don't use minutes for on-the hour times. *7am 10:30pm*
-Use a hyphen between times to indicate a time period.  
-7am-10:30pm
-7-10am
-
-#### Web Addresses
-Always lowercase, never use www  
-*northpointe.org*
-
 ### Biblical Style
-**Developing**
+
+- The Holman Christian Standard Bible (HCSB) is the preferred version of NorthPointe Church.
+- Whether using HCSB or another version, always cite the version after the verse.
 
 #### Verse References
 Never abbreviate books of the Bible *Mark 3:21, Luke 2:10-11*
@@ -276,9 +306,13 @@ Word and Phrase Bank
 
 ### Ministry Names
 - Celebrate Recovery (Never CR)
+- College at NorthPointe
+- Core Class
 - KidsCore
 - NailBenders
 - NP Kids
+- The Outlet
+- Small Groups
 - SURGE
 - wherehouse (always lowercase)
 
@@ -298,5 +332,11 @@ Word and Phrase Bank
 Don’t use these words and phrases:
 
 - click here
+- Committee => team
+- fellowship
+- luncheon
+- ministry (verb) => serve
 - and much more
 - anything related to politics
+- Visitor
+- Unchurched
