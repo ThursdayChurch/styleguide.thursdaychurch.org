@@ -7,7 +7,7 @@ Instead, edit the stylus (.styl) files and compile it to CSS on your machine.
 /* ----------------------------------------------------------------------------
  * Fonts
  */
-@import url("//fonts.googleapis.com/css?family=Gibson:700|Open+Sans:300");
+@import url("//fonts.googleapis.com/css?family=Open+Sans:300");
 /* ----------------------------------------------------------------------------
  * Base
  */
@@ -114,7 +114,7 @@ body,
 td,
 textarea,
 input {
-  font-family: Gibson, Helvetica Neue, Open Sans, sans-serif;
+  font-family: "canada-type-gibson", Gibson, Helvetica Neue, Open Sans, sans-serif;
   line-height: 1.6;
   font-size: 16px;
   color: #505050;
@@ -302,7 +302,7 @@ a:hover {
 .content h2,
 .content h3 {
   text-rendering: optimizeLegibility;
-  font-family: Gibson;
+  font-family: "canada-type-gibson", Gibson;
   padding-bottom: 0;
 }
 .content h1 + p,
@@ -482,7 +482,7 @@ body.no-literate .content pre > code:hover::-webkit-scrollbar-thumb {
 }
 .button {
   text-rendering: optimizeLegibility;
-  font-family: Gibson, sans-serif;
+  font-family: "canada-type-gibson", Gibson, sans-serif;
   letter-spacing: -1px;
   font-weight: bold;
   display: inline-block;
@@ -610,7 +610,7 @@ body.no-literate .content pre > code:hover::-webkit-scrollbar-thumb {
 .header h1 {
   text-rendering: optimizeLegibility;
   font-weight: bold;
-  font-family: Gibson, sans-serif;
+  font-family: "canada-type-gibson", Gibson, sans-serif;
   font-size: 13px;
 }
 .header h1,
@@ -690,7 +690,7 @@ a.big.button {
   border: solid 3px #6bac43;
   -webkit-border-radius: 30px;
   border-radius: 30px;
-  font-family: Gibson, sans-serif;
+  font-family: "canada-type-gibson", Gibson, sans-serif;
 }
 a.big.button,
 a.big.button:visited {
@@ -776,7 +776,7 @@ a.big.button:hover:visited {
   background: rgba(107,172,67,0.03);
 }
 .menu a.level-1 {
-  font-family: Gibson, sans-serif;
+  font-family: "canada-type-gibson", Gibson, sans-serif;
   font-size: 22px;
   padding: 12px 60px;
   width: 100%;
