@@ -819,6 +819,10 @@ a.big.button:hover:visited {
   color: #505050 !important;
 }
 
+.menu a.level-1.active{
+  color: #ffffff !important;
+}
+
 code .string,
 code .number {
   color: #3ac;
