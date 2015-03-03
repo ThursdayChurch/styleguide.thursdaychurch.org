@@ -17,7 +17,7 @@ isDev = false;
             $("[href='#" + currentId + "']").trigger("click");
         }
         var preId = null;
-        $("h1,h2,h3").scrollagent({ offset: 150, reCal: reCal }, function (cid, pid, currentElement, previousElement) {
+        $("h1,h2,h3").scrollagent({ offset: 100, reCal: reCal }, function (cid, pid, currentElement, previousElement) {
 
             var isLevel4 = false;
             if ($("[href='#" + cid + "']").hasClass("level-4")) {
