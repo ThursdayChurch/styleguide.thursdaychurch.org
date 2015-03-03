@@ -15,10 +15,10 @@ NorthPointe is:
 
 - Welcoming, but not gushing
 - Informal, but not sloppy
+- Optimistic, but not unrealistic
 - Conversational, but not rambling
 - Informative, but not academic
 - Stylish, but not inaccessible
-- Crisp, but not trendy
 
 
 ### Watch your tone
@@ -27,18 +27,18 @@ When you’re writing, consider the reader’s state of mind. Adjust your tone a
 
 #### Be True
 - We don’t lie  
-- We don’t overpromise or bend the truth  
+- We don’t over promise or bend the truth  
 *Our writing doesn’t bend the truth or use excessive adjectives. Because things that are “totally epic” usually aren’t*. 
 - We Stick to the facts
 
 #### Be nice
 We’re experts, but we’re not bossy.  
 We wouldn’t say:  You must log in before you are allowed to give.  
-Instead, we’d say:  Looking for your give? Log in to NPCC.me
+Instead, we’d say:  Looking for a way to give? Log in to NPCC.me
 
 We keep it positive.  
 We wouldn’t say:  You can’t sign up for Core Class 201 until you’ve completed 101.  
-Instead, we’d say: To get started with Core Classes sign up for 101.
+Instead, we’d say: To get started with Core Classes, sign up for 101.
 
 
 Writing for NorthPointe
@@ -62,6 +62,7 @@ Say what’s important. Forget the rest.
 2. Write from the first person plural perspective: we, not they
 3. Be brief and speak directly.
 4. Avoid exclamation points. If you must exclaim, use words that do  the exclaiming for you.
+5. Never use all caps (unless it’s an abbreviation).
 
 
 #### Inform.
@@ -101,8 +102,10 @@ When you’re done writing:
 
 ### Email Signature
 
-Garrett Johnson  
-Web Developer  
+> Suggested use:
+
+John Smith
+Administrative Assistant
 NorthPointe Church  
 northpointe.org  
 (559) 276-2300  
@@ -117,8 +120,8 @@ They're apprehensive, nervous, maybe a bit anxious. NorthPointe is all about rea
 **Quick Tips**
 
 - Write as warmly and clearly as possible. Only use church jargon when it's absolutely necessary.
-- Avoid history, but look to the future. 
-- Get to the point.
+- Avoid history, but look to the future. Keep in mind: every week is someone’s first Sunday. 
+- Start with what’s important, leave out the rest.
 
 
 ### Good Vs Bad
@@ -126,10 +129,7 @@ They're apprehensive, nervous, maybe a bit anxious. NorthPointe is all about rea
 #### Bad
 
 **NORTHPOINTE 25TH ANNIVERSARY!**  
-NorthPointe Community Church is celebrating
-their 25th anniversary on September 21 at 6pm in
-Grizzly Stadium. God has
-done so much for us in 25 years at NorthPointe. 
+NorthPointe Community Church is celebrating their 25th anniversary on September 21 at 6pm in Grizzly Stadium. God has done so much for us in 25 years at NorthPointe. 
 
 > - No need for exclamation points in a well-crafted headline
 - No need to lead with “NorthPointe Community Church” or include its location
@@ -145,7 +145,7 @@ ministry at NorthPointe God has
 been powerfully at work in our midst,
 transforming countless lives into the image
 of His Son. And we each have a part in this
-story. Join us 6pm Saturday, September 21 at Grizzly Stadium. 
+story. Join us 6pm Saturday, Sept 21 at Grizzly Stadium. 
 
 
 > - Headline speaks directly to the audience
@@ -203,13 +203,12 @@ Edit your work until it’s clear, honest, and sounds like something you’d say
 
 ### Formatting
 
-- *Dates* - Saturday, Nov 16 or Every Saturday
+- *Dates* - Saturday, Nov 16 or Every Saturday // DEVELOPING
 - *Times* - 6:30pm, 6pm (No space or periods)
 
 #### Bulletin Blacklist
 
-- NPCC
-- Join us
+- NPCC (Only acceptable for social media, and web to differentiate from Northpointe Atlanta)
 - Ministry
 - “Air Quotes”
 
@@ -217,6 +216,80 @@ Grammar and More
 ----------------
 
 Grammar is hard.
+
+### Grammar and Punctuation
+
+#### Abbreviations and acronyms
+If there’s a chance a reader won’t recognize an abbreviation or acronym, spell it out the first time. If the abbreviation is more common than the long form, then use the short form (DVD)  
+*Never use NPCC*
+
+#### Ampersands (&)
+Do not use in place of _and_, except as part of a graphic design or logo.
+
+#### Apostrophe
+
+- Avoid using apostrophes in plural acronyms, e.g. _CDs, URLs_
+- Plural nouns not ending in _s_: Add _’s_, e.g. _the alumni’s contributions, women’s rights._
+- Plural nouns ending in _s_: Add only an apostrophe: _the churches’ needs, the girls’ toys, the horses’ food, the ships’ wake, states’ rights, the VIPs’ entrance_.
+- For consistency and ease in remembering a rule, always use _’s_ if the word does not end in the letter _s_.
+- Singular proper names ending in _s_: Use only an apostrophe, e.g. _Jesus’ disciples._
+- When a proper noun is already plural, the usual rule for possessives applies, e.g. _The Smiths’, Rolling Stones’_.
+
+#### Capitalization
+Use common sense. When in doubt, don’t capitalize. All caps is like yelling, just say no. Do *not* capitalize these words: website, internet, online, email. Capitalize pronouns when referencing God. *Examples: Creator, God, Father, Holy Sprit, He, Him, His*
+
+##### Biblical Capitalization
+
+- Capitalize _Bible_ when referring to the Scriptures in the Old or New Testament.
+- Capitalize related terms such as the _Gospels, Gospel of John, the Scriptures_.
+- Lowercase _biblical_ in all uses.
+- Uppercase pronouns related to God, Jesus, or the Holy Spirit. E.g. _He, Him, His,_ etc.
+- Lowercase _god_ when referring to deities or idols of polytheistic religions.
+- Lowercase such words as _godly, godlike, godliness,_ _godsend._
+- Capitalize names of major events in the life of Jesus Christ that do not use His name_,_ e.g. _the Last Supper, the Crucifixion, the Resurrection, and the Ascension_.
+- Lowercase _heaven, hell, devil, angel, apostle, priest, etc._
+- Capitalize _Hades_ and _Satan_.
+
+#### Commas
+Use the oxford or serial comma.
+
+> We interviewed some of our members, Rick Warren, Oprah, and Justin Timberlake.
+
+Otherwise, follow common sense with commas. Read the sentence aloud. If you need to take a breath, use a comma.
+
+#### Contractions
+Use them!
+
+#### Dates
+Spell out the day and abbreviate the month. *Sunday, Jan 24*
+
+#### Em Dashes (—)
+Use as an abrupt change in a thought or sentence. No space on either side (_On second thought—I don’t agree_). For Mac, use shortcut “shift+option+-,” for Windows, use shortcut “alt+0151.”
+
+#### En Dashes (–)
+Use mainly for time and date ranges. No space on either side (_The event is from 9–5pm_). For Mac, use shortcut “option+-,” for Windows, use shortcut “alt+0150.”
+
+#### Exclamation points
+Go easy on the exclamation points! Only use exclamation points when you’re basically giving someone a high five. Never use them in titles or headings.
+
+#### Hyphens (-)
+
+
+#### Italics
+Italicize to emphasize a word, cite an example or indicate the title of a long work (books, movies, albums).
+
+Scripture should be Italicized. 
+
+
+#### Numbers
+Spell out numbers one through nine and use numerals for 10 and above.  
+Use a hyphen for a span of numbers. *It takes 20-30 days*
+
+#### Pronouns
+Don’t use “they” or “one” as singular pronouns. Use “she” or “he” or avoid it altogether.
+
+#### Underlining
+Don’t underline things.
 
 ### Formatting
 
@@ -236,7 +309,8 @@ Use all lowercase for email addresses.
 Never publish personal email addresses. Email should only be publicized for direct and personal contact. Call to action requests (i.e. RSVP, Register) should use a form.
 
 #### Telephone numbers
-Use (559) 650-2000 ext. 213
+For internal (bulletin) use: 650-2000 ext. 213
+For external (web) use: (559) 650-2000 ext. 213
 
 Note: Never publish personal phone numbers. Always use a NorthPointe phone number and extension.
 
@@ -250,55 +324,34 @@ Use a hyphen between times to indicate a time period.
 Always lowercase, never use www  
 *northpointe.org*
 
-### Grammar and Punctuation
 
-#### Abbreviations and acronyms
-If there's a chance a reader won't recognize an abbreviation or acronym, spell it out the first time. If the abbreviation is more common than the long form, then use the short form (DVD)  
-*Never use NPCC*
-
-#### Ampersands
-Don't use them.
-
-#### Capitalization
-Use common sense. When in doubt, don't capitalize. All caps is like yelling, just say no. Do *not* capitalize these words: website, internet, online, email. Capitalize pronouns when referencing God. *Examples: Creator, God, Father, Holy Sprit, He, Him*
-
-#### Commas
-Use the oxford or serial comma.
-
-We interviewed some of our customers, Oprah, and Justin Timberlake.
-
-Otherwise, follow common sense with commas. Read the sentence aloud. If you need to take a breath, use a comma.
-
-#### Contractions
-Use them!
-
-#### Dates
-Spell out the day and abbreviate the month. *Sunday, Jan 24*
-
-#### Exclamation points
-Go easy on the exclamation points! Only use exclamation points when you're basically giving someone a high five. Never use them in titles or headings.
-
-#### Italics
-Italicize to emphasize a word, cite an example or indicate the title of a long work (books, movies, albums).
-
-Scripture should be Italicized. 
-
-#### Numbers
-Spell out numbers one through nine and use numerals for 10 and above.  
-Use a hyphen for a span of numbers. *It takes 20-30 days*
-
-#### Pronouns
-Don't use "they" or "one" as singular pronouns. Use "she" or "he" or avoid it altogether.
 
 ### Biblical Style
 
 - The Holman Christian Standard Bible (HCSB) is the preferred version of NorthPointe Church.
 - Whether using HCSB or another version, always cite the version after the verse.
 
-#### Verse References
+#### Scripture References
 Never abbreviate books of the Bible *Mark 3:21, Luke 2:10-11*
 
 When citing translations use capitalized abbreviation ESV, NIV, MSG, NASB, etc. *Mark 3:21 (ESV)*
+
+#### Bible
+
+- **Use:**
+	- Studies
+	- Scripture
+	- Reading Plans
+	- Bible, bliblical
+- **Avoid:**
+	- God’s Word
+	- quiet time
+	- resources
+
+#### Names of God
+
+- Holy Spirit - Never Holy Ghost
+- Jesus’ - use apostrophe but no _s_ when making Jesus possessive (e.g. Jesus’ disciples)
 
 
 Word and Phrase Bank
@@ -315,6 +368,118 @@ Word and Phrase Bank
 - Small Groups
 - SURGE
 - wherehouse (always lowercase)
+
+### Writing About Ministries
+
+#### Baptism
+
+- **Use:**
+	- An outward expression of an inward change
+	- Happens by immersion after salvation
+	- Going public
+	- Symbol of how Jesus brought you from death to life
+- **Avoid:**
+	- Washed my sins away
+	- Take the plunge
+	- Got dunked
+	- Public profession
+
+#### Giving
+
+- **Use:**
+	- tithe
+	- give/gift
+	- contribution
+	- opportunity
+	- worship giving
+	- consistency
+	- campaign (i.e. Say Yes!)
+		- Note about Say Yes!: or *Say Yes to the Next Generation*
+- **Avoid:**
+	- pledge
+	- initiative
+	- afford
+	- enslaved to debt, lenders
+	- big givers
+	- prosperity
+	- need
+	- obligation
+
+#### Small Groups
+
+- **Use:**
+	- makes church feel personal
+	- group leader
+	- group member
+	- group studies
+	- hosts
+	- From rows to circles
+- **Avoid:**
+	- fellowship
+	- group
+	- bible study
+	- home group
+	- Avoid describing groups as one night a week at someone’s house
+
+#### Membership
+
+- **Use**:
+	- connecting to the church, connecting to God’s people
+	- finding your way (within the context of plan)
+	- member of the body of christ
+		- talk responsibilities
+- **Avoid**:
+	- getting involved
+	- assimilate
+
+#### Salvation
+
+- **Use:**
+	- Asked Jesus into my life
+	- Committed to following Jesus
+	- Repentance
+	- Salvation
+	- Your first step is salvation
+	- Give/Gave my life to Jesus
+	- Became a Christian
+	- Salvation is a gift
+	- Putting God on the Throne
+	- rededication
+- **Avoid:**
+	- accepted Christ/received Christ
+	- met Jesus
+	- asked Jesus into my heart
+	- got saved/been saved
+	- prayed to receive Christ
+	- washed by the blood
+	- know Jesus
+	- born again _(fine in context)_ 
+	- salvation experience
+	- made Jesus Lord of my life
+	- profession of faith
+	- made new _(fine in context)_
+	- became a believer _(fine in context)_
+	- conversion/converted/conversion experience/make converts _(Converted can be acceptable in context, for example, an atheist who converted to Christianity)_
+	- submitted your life to Jesus
+	- reconciled to Jesus/God _(fine in context of a particular passage of Scripture)_
+
+#### College at NorthPointe
+
+- **Use:**
+	- We are College at NorthPointe
+- **Avoid:**
+	- college group
+	- college ministry
+		- Unless describing for larger church audience
+
+#### wherehouse Student Ministry
+
+- **Use:**
+- wherehouse student ministry
+- **Avoid:**
+	- WH
+	- High School Ministry
+	- Junior High Ministry
 
 ### Word and Phrase Bank
 - hashtag
