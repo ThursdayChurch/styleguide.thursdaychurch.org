@@ -11,7 +11,7 @@ NorthPointe's voice is human. It’s familiar, it’s friendly, and it’s strai
 
 NorthPointe is “Creating a positive faith environment where non-churchgoers are encouraged to become fully-developing followers of Jesus Christ at every stage of life.” and that spirit should come through in every piece of content we produce.
 
-NorthPointe is:
+**NorthPointe is:**
 
 - Welcoming, but not gushing
 - Informal, but not sloppy
@@ -56,7 +56,7 @@ Some tips: Picture your audience and write for them. It’s not about you. Tell 
 
 Say what’s important. Forget the rest.
 
-“You want hearts, not eyeballs.” - Austin Kleon, *Show Your Work*
+> “You want hearts, not eyeballs.” - Austin Kleon, *Show Your Work*
 
 1. Use present tense: “NorthPointe gives”, and the present perfect: “We’ve meticulously crafted”
 2. Write from the first person plural perspective: we, not they
@@ -87,29 +87,89 @@ Never use "click on" or "click here"
 
 ### Blog Posts
 
-> “Part of the struggle in learning to write is learning to ignore what isn’t useful to you and pay attention to what is…This is a book full of starting points. Perhaps they’ll help you find enough clarity in your own mind and your own writing to discover what it means to write. I don’t mean ‘write the way I do’ or ‘write the way they do.’ I mean ‘write the way you do.’” - *Verlyn Klinkenborg*
+Imagine if we had the ability to speak into the lives of people and encourage them to become fully-developing followers of Jesus Christ… every day. Blogs and articles extend the pulpit to help people understand the Bible and take steps forward as they follow Christ Monday through Saturday.
 
-#### Just Write
+#### Three Values for Blog Writing
+**1. Simple**
 
-When you’re done writing:
+- Write like you are talking to your neighbors, coworkers, family, and friends. A great question to ask: If I said this to a middle school student, would he or she understand?
 
-- Read it out loud
-- Aim for clarity over brevity
-- **Craft a headline** - Be direct, but nice.
+**2. Biblical**
+
+- We don’t do self-help. We share the Gospel. Everything we write should help people connect to God and better understand the Bible.
+
+**3. Practical**
+
+- Everyone has a next step in his or her walk with Jesus. Does your piece encourage readers to take a next step?
+- Can the reader apply what you’ve written today?
+
+#### Writer’s Checklist
+Before turning in an article or devotional, ask yourself these questions:
+
+1. Does my blog post convey one simple idea?
+2. Are my points backed by Scripture?
+3. Did I give the reader a clear next step?
+4. Am I referencing people or places other campuses won’t understand? 5. Is my post on a 7th to 8th grade reading level?
+6. Did I keep to the word limit (300 words for devotionals and 500 words for articles) and format?
+*Please fact-check your work before turning it in. Double check names, numbers, Scripture references, and spelling*.​
+
+*Portions of this section were graciously provided by [NewSpring Church](http://newspring.cc)*
 
 ### Event Write-ups
 
+A well written event page is worth it’s weight in gold. It can inform people who are already going, and convince guests who are on the fence about going.
 
-### Email Signature
+#### Start with Why.
+First identify who your ideal attendees are. Once you’ve narrowed your target demographic,  it makes it easier to answer these questions:
+- What makes your event different?
+- Why would someone want to attend?
+- What will attendees get out of your event?
+
+#### How and What.
+Pretend you know nothing about your event. Include the important details: date, time, venue name, address, etc. But also think about the other things your attendees might want to know: Do guests need to register? Do they need to bring anything? Is there childcare?
+
+Explain the format, make sure to be clear about what people are signing up for.
+
+If you’re not sure if you should include something, you can never provide to many details.
+
+#### Read it.
+Read everything you’ve written out loud. Everything you write will make perfect sense to you, but when you read something out loud, you get a better sense of how a guest is going to understand it. If it doesn’t sound like something you’d say, consider rewriting. Double check to make sure your spelling, grammar, and punctuation is correct.
+
+#### Quick Tips
+- Keep your titles to less than 50 characters including spaces.
+- Write in short paragraphs.
+- Use words that are absolutely inclusive, and point to the future. (*Join us* is an invitation to an event already in progress)
+- Don’t start with what you’ll learn, start with why you’d want to learn it.
+
+### Email
+
+#### Email Signature
 
 > Suggested use:
 
-John Smith
-Administrative Assistant
+John Smith  
+Administrative Assistant  
 NorthPointe Church  
 northpointe.org  
 (559) 276-2300  
 
+
+
+### Storytelling
+
+NorthPointe is currently developing a Story Team. 
+
+**What we do**
+- Creatively tell stories of life change through various forms of documentary storytelling.
+- The types of mediums we use are: documentary short films, written word, photography, photo essays, and spoken word.
+
+#### Writing Guidelines
+750-800 Words
+
+#### Photography Guidelines
+1. Types of Photography
+	- Natural Light Portraiture - The only type of lighting we use when shooting Story Team portraits
+	- Documentary / Photojournalism - Feel free to add your own creative touches to the shoot. 
 
 Writing for the Bulletin
 ------------------------
@@ -174,8 +234,9 @@ story. Join us 6pm Saturday, Sept 21 at Grizzly Stadium.
 
 
 #### 2. Inspire
-- 	Be honest about the event
-- 	Adjectives don’t do you any favors.
+- Start with why
+- Be honest about the event
+- Adjectives don’t do you any favors.
 
 #### 3. Read it out loud
 Check for these basics:
@@ -221,6 +282,7 @@ Grammar is hard.
 
 #### Abbreviations and acronyms
 If there’s a chance a reader won’t recognize an abbreviation or acronym, spell it out the first time. If the abbreviation is more common than the long form, then use the short form (DVD)  
+
 *Never use NPCC*
 
 #### Ampersands (&)
@@ -264,16 +326,16 @@ Use them!
 Spell out the day and abbreviate the month. *Sunday, Jan 24*
 
 #### Em Dashes (—)
-Use as an abrupt change in a thought or sentence. No space on either side (_On second thought—I don’t agree_). For Mac, use shortcut “shift+option+-,” for Windows, use shortcut “alt+0151.”
+Use as an abrupt change in a thought or sentence. No space on either side (_On second thought—I don’t agree_). For Mac, use shortcut `shift+option+-`, for Windows, use shortcut `alt+0151`.
 
 #### En Dashes (–)
-Use mainly for time and date ranges. No space on either side (_The event is from 9–5pm_). For Mac, use shortcut “option+-,” for Windows, use shortcut “alt+0150.”
+Use mainly for time and date ranges. No space on either side (_The event is from 9–5pm_). For Mac, use shortcut `option+-`, for Windows, use shortcut `alt+0150`.
 
 #### Exclamation points
 Go easy on the exclamation points! Only use exclamation points when you’re basically giving someone a high five. Never use them in titles or headings.
 
 #### Hyphens (-)
-
+Use a hyphen whenever ambiguity would result if it were omitted: T​he president will speak to small-business men. (​B​usinessmen​normally is one word. But t​he president will speak to small businessmen​makes it sound like the businessmen are small.)
 
 #### Italics
 Italicize to emphasize a word, cite an example or indicate the title of a long work (books, movies, albums).
@@ -282,8 +344,10 @@ Scripture should be Italicized.
 
 
 #### Numbers
-Spell out numbers one through nine and use numerals for 10 and above.  
-Use a hyphen for a span of numbers. *It takes 20-30 days*
+- Spell out numbers one through nine and use numerals for 10 and above.
+- Ages: Use numerals for specific ages (“The 5-year-old had a party,” “She was turning 30”
+- Spell out decades _in your thirties_, _The twenty-somethings_
+- Use a hyphen for a span of numbers. *It takes 20-30 days*
 
 #### Pronouns
 Don’t use “they” or “one” as singular pronouns. Use “she” or “he” or avoid it altogether.
@@ -308,9 +372,12 @@ Use all lowercase for email addresses.
 
 Never publish personal email addresses. Email should only be publicized for direct and personal contact. Call to action requests (i.e. RSVP, Register) should use a form.
 
+#### Job Titles
+When mentioning someone on the NorthPointe staff, always introduce the title after  the first mention of their name. _It was written by Todd Anderson, Worship Pastor. The second mention should only use their first name.
+
 #### Telephone numbers
-For internal (bulletin) use: 650-2000 ext. 213
-For external (web) use: (559) 650-2000 ext. 213
+For internal (bulletin) use: 650-2000 ext. 213  
+For external (web) use: (559) 650-2000 ext. 213  
 
 Note: Never publish personal phone numbers. Always use a NorthPointe phone number and extension.
 
@@ -321,9 +388,10 @@ Use a hyphen between times to indicate a time period.
 7-10am
 
 #### Web Addresses
-Always lowercase, never use www  
+Always lowercase, and italicize. Never use www.  
+When the URL doesn’t fit on one line, break it into two or more lines without adding a hyphen or other punctuation mark.  
+If the URL is the last word in a paragraph, do not add punctuation to the end of the sentence.
 *northpointe.org*
-
 
 
 ### Biblical Style
@@ -371,6 +439,12 @@ Word and Phrase Bank
 
 ### Writing About Ministries
 
+#### NorthPointe Church
+- **Use:**
+	- 
+- **Avoid:**
+	- church family
+
 #### Baptism
 
 - **Use:**
@@ -404,22 +478,6 @@ Word and Phrase Bank
 	- prosperity
 	- need
 	- obligation
-
-#### Small Groups
-
-- **Use:**
-	- makes church feel personal
-	- group leader
-	- group member
-	- group studies
-	- hosts
-	- From rows to circles
-- **Avoid:**
-	- fellowship
-	- group
-	- bible study
-	- home group
-	- Avoid describing groups as one night a week at someone’s house
 
 #### Membership
 
@@ -463,14 +521,36 @@ Word and Phrase Bank
 	- submitted your life to Jesus
 	- reconciled to Jesus/God _(fine in context of a particular passage of Scripture)_
 
+#### Small Groups
+
+- **Use:**
+	- makes church feel personal
+	- group leader
+	- group member
+	- group studies
+	- hosts
+	- From rows to circles
+- **Avoid:**
+	- fellowship
+	- group
+	- bible study
+	- home group
+	- Avoid describing groups as one night a week at someone’s house
+
+
+
 #### College at NorthPointe
 
 - **Use:**
+	- College at NorthPointe
 	- We are College at NorthPointe
+	- community for college age students
 - **Avoid:**
 	- college group
 	- college ministry
 		- Unless describing for larger church audience
+	- college service
+	- college and career
 
 #### wherehouse Student Ministry
 
@@ -496,11 +576,12 @@ Word and Phrase Bank
 
 Don’t use these words and phrases:
 
+- “Air Quotes”
 - click here
-- Committee => team
+- Committee
 - fellowship
 - luncheon
-- ministry (verb) => serve
+- ministry (as a verb)
 - and much more
 - anything related to politics
 - Visitor
