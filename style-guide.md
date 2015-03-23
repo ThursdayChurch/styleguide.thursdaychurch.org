@@ -109,7 +109,8 @@ Before turning in an article or devotional, ask yourself these questions:
 1. Does my blog post convey one simple idea?
 2. Are my points backed by Scripture?
 3. Did I give the reader a clear next step?
-4. Am I referencing people or places other campuses won’t understand? 5. Is my post on a 7th to 8th grade reading level?
+4. Am I referencing people or places guests won’t understand? 
+5. Is my post on a 7th to 8th grade reading level?
 6. Did I keep to the word limit (300 words for devotionals and 500 words for articles) and format?
 *Please fact-check your work before turning it in. Double check names, numbers, Scripture references, and spelling*.​
 
@@ -121,6 +122,7 @@ A well written event page is worth it’s weight in gold. It can inform people w
 
 #### Start with Why.
 First identify who your ideal attendees are. Once you’ve narrowed your target demographic,  it makes it easier to answer these questions:
+
 - What makes your event different?
 - Why would someone want to attend?
 - What will attendees get out of your event?
@@ -443,6 +445,7 @@ Word and Phrase Bank
 - **Use:**
 	- 
 - **Avoid:**
+	- NorthPointers
 	- church family
 
 #### Baptism
