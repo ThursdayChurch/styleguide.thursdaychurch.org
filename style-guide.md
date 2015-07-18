@@ -147,9 +147,7 @@ Read everything you’ve written out loud. Everything you write will make perfec
 
 #### Email Signature
 
-> Suggested use:
-
-John Smith  
+> John Smith  
 Administrative Assistant  
 NorthPointe Church  
 northpointe.org  
@@ -190,10 +188,10 @@ They're apprehensive, nervous, maybe a bit anxious. NorthPointe is all about rea
 
 #### Bad
 
-**NORTHPOINTE 25TH ANNIVERSARY!**  
+> **NORTHPOINTE 25TH ANNIVERSARY!**  
 NorthPointe Community Church is celebrating their 25th anniversary on September 21 at 6pm in Grizzly Stadium. God has done so much for us in 25 years at NorthPointe. 
 
-> - No need for exclamation points in a well-crafted headline
+- No need for exclamation points in a well-crafted headline
 - No need to lead with “NorthPointe Community Church” or include its location
 - No clarity on what the product delivers
 - No reason for our audience to care
@@ -201,7 +199,7 @@ NorthPointe Community Church is celebrating their 25th anniversary on September 
 
 #### Good
 
-**GET READY TO CELEBRATE.**  
+> **GET READY TO CELEBRATE.**  
 Over the past twenty-five years of
 ministry at NorthPointe God has
 been powerfully at work in our midst,
@@ -209,8 +207,7 @@ transforming countless lives into the image
 of His Son. And we each have a part in this
 story. Join us 6pm Saturday, Sept 21 at Grizzly Stadium. 
 
-
-> - Headline speaks directly to the audience
+- Headline speaks directly to the audience
 - Prompts involvement from the reader
 “we each have a part...”
 - Invites the audience to experience something different and new
