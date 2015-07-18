@@ -41,14 +41,21 @@ Define the content, intended uses, and requested timelines for each item you’l
 	- **Drafts/Proofing**: Drafts are scheduled by the creative team through Asana. We’ll use PDFs for proofing and corrections or comments should be left through Asana.
 
 Consider other items you may need at your event or for your ministry.
-Ex: The Men’s Conference needs slides and brochures for Men’s Breakfast, Men’s Studies, or Marriage Ministry.
+
+> **Example**: The Men’s Conference needs slides and brochures for Men’s Breakfast, Men’s Studies, or Marriage Ministry.
+
 Consider extras needed for other purposes. An insert might be used by another ministry or for external promotion outside NorthPointe.
 
-### Before Submission Checklist
 ### NorthPointe Style Guide
 ### Writing with Clarity
 
+### Pre-Submission Checklist
 
+- Writing meets styleguide standards, and has been proofed by at least one other person.
+- Room reserved and confirmed in facilities scheduler
+- Online registration URL ready. (If using ACS for registration)
+
+You’re ready to submit your marketing request!
 
 
 ## Submitting Marketing Requests
