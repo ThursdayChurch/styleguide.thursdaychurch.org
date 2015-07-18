@@ -89,7 +89,8 @@ isDev = false;
                 var res = $(".menu .active").siblings('ul.level-2');
                 res.show();
                 res.children('.level-2').show();
-                $('ul.level-2').not(res).hide();
+                // Uncomment to show level 2
+                //$('ul.level-2').not(res).hide();
             }
 
 
@@ -565,7 +566,7 @@ isDev = false;
 // This binds a listener on window resizing to automatically scale down the
 // child (`> img` in this example) just so that enough of it will be visible in
 // the viewport of the container.
-// 
+//
 // This assumes that the container has `position: relative` (or any 'position',
 // really), and `overflow: hidden`.
 
