@@ -789,7 +789,7 @@ a.big.button:hover:visited {
   background: #303030;
 }
 .menu a.level-1:hover {
-  color: #565666;
+  color: #ffffff;
 }
 .menu a.level-2 {
   font-size:19px;
@@ -865,4 +865,3 @@ code .comment {
 
 ul.level-2 { display: none; }
 ul.level-3 { display: none; }
-
