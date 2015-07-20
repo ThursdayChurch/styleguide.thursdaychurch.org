@@ -32,7 +32,7 @@ Define the content, intended uses, and requested timelines for each item you’l
     - **Printed Pieces**:
         - If you need art, select Design when submitting your request. The timeline for this type of print piece is 24 days.
         - If artwork already exists, we need 10 business days for print production.
-        - **Reprints without edits**: 8 business days.
+          - **Reprints without edits**: 8 business days.
         - Timelines may change due to high volume of print projects.
         - Some projects require more than two weeks for production (booklets, custom printing, outsourced materials).
 	- **Videography/Photography**: One week before your requested shooting date. Advanced booking is recommended to guarantee staffing availability.
@@ -42,7 +42,7 @@ Define the content, intended uses, and requested timelines for each item you’l
 
 Consider other items you may need at your event or for your ministry.
 
-> **Example**: The Men’s Conference needs slides and brochures for Men’s Breakfast, Men’s Studies, and Marriage Ministry.
+> The Men’s Conference needs slides and brochures for Men’s Breakfast, Men’s Studies, and Marriage Ministry.
 
 Consider extras needed for other purposes. An insert might be used by another ministry or for external promotion outside NorthPointe.
 
@@ -77,7 +77,7 @@ Consider extras needed for other purposes. An insert might be used by another mi
 
 #### Quality
 
-- Writing meets styleguide standards, and has been proofed by at least one other person.
+- Writing meets style guide standards, and has been proofed by at least one other person.
 - Room reserved and confirmed in facilities scheduler
 - Online registration URL ready. (If using ACS for registration)
 
@@ -87,8 +87,11 @@ You’re ready to submit your marketing request!
 ## Submitting Marketing Requests
 
 Fill out the Marketing Request Form at [northpointe.org/forms/marketing](northpointe.org/forms/marketing)
+
+### Request Title
+
 Give your request a clear, descriptive title.
-> Examples: Breathe Women’s Bible Study, Corner Banner for Branded - Summer XD 2015, Servolution - Small Group Sign Ups, Nail Benders monthly meeting, Summer Splash Baptism and Movie Night, etc.
+> Breathe Women’s Bible Study, Corner Banner for Branded - Summer XD 2015, Servolution - Small Group Sign Ups, Nail Benders monthly meeting, Summer Splash Baptism and Movie Night, etc.
 
 ### Ministry Support or Event?
 - For an event (*Girl’s Night Out*, *Men’s Breakfast*, *Serve Day*, etc) select Event.
@@ -107,13 +110,15 @@ Options include: Postcards, Brochures, Posters, Tickets, Booklets, Letterhead, E
 - **Web**: New content and updates on [northpointe.org](northpointe.org).
 - **Social Media**: [Facebook](https://www.facebook.com/NPCCFresno), [Twitter](https://twitter.com/npccfresno), [Instagram](https://instagram.com/npccfresno/), Email, Constant Contact
 
+For request turnaround times see [Production Timelines](#marketing-request-guide-planning-production-timelines). 
+
 ## Once Your Request is Submitted
 
 ### The Approval Process
 
 - The Creative Director will schedule your marketing request within 3 business days.
 - During this 3-day period, Paul will work with you to decide the best ways to market your event.
-- Requests are not automatically approved. There are many factors to consider, paper availability, production workload, etc. Requests are prioritized within the ministry and communication strategy of NorthPointe Church.
+- Requests are not automatically approved. There are many factors to consider: paper availability, production workload, etc. Requests are prioritized within the ministry and communication strategy of NorthPointe Church.
 
 ### Communicating through Asana
 

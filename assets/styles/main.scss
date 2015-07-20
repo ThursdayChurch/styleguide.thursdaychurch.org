@@ -79,7 +79,6 @@ a {
  */
 
 .content {
-  overflow:hidden;
   @media (max-width: 480px) {
     padding: 20px;
     padding-top: 40px;
@@ -201,6 +200,7 @@ a {
  */
 
 .content-root {
+  overflow:hidden;
   min-height: 90%;
   position: relative;
   @media (min-width: 768px) {
