@@ -42,7 +42,7 @@ Define the content, intended uses, and requested timelines for each item you’l
 
 Consider other items you may need at your event or for your ministry.
 
-> **Example**: The Men’s Conference needs slides and brochures for Men’s Breakfast, Men’s Studies, or Marriage Ministry.
+> **Example**: The Men’s Conference needs slides and brochures for Men’s Breakfast, Men’s Studies, and Marriage Ministry.
 
 Consider extras needed for other purposes. An insert might be used by another ministry or for external promotion outside NorthPointe.
 
@@ -50,6 +50,32 @@ Consider extras needed for other purposes. An insert might be used by another mi
 ### Writing with Clarity
 
 ### Pre-Submission Checklist
+
+#### Summary
+
+- What is the purpose of the project? What happened so far?
+- What do you want people to know? Are there decisions to make?
+- What’s happening next?
+
+#### Ministry
+
+- Values: What does the ministry care about?
+- Mission: What is the ministry trying to do? What is the ultimate goal?
+- What are the goals of this project?
+
+#### Audience
+
+- Who are the primary and secondary audiences?
+- What do they need?
+
+#### Story
+
+- What do we want to say about the product?
+- What is the narrative?
+- Why should people care?
+- How does the event or ministry improve lives?
+
+#### Quality
 
 - Writing meets styleguide standards, and has been proofed by at least one other person.
 - Room reserved and confirmed in facilities scheduler
@@ -95,5 +121,5 @@ Options include: Postcards, Brochures, Posters, Tickets, Booklets, Letterhead, E
 - If you’re following a task, you’ll be able to track conversations and work happening on your requests.
 - If you have a question about Asana, please ask someone on our Creative team. We’d be happy to help you get comfortable using Asana as a communication tool.
 
-### Updating Existing Requests through Asana
+### Updating Requests through Asana
 - Once your request is in Asana, you can update the creative team using comments. Please don’t change the contents, or due date of your task, original information helps us make sure the changes make it to the final product.
