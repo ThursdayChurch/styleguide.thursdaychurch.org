@@ -32,7 +32,7 @@ Define the content, intended uses, and requested timelines for each item you’l
     - **Printed Pieces**:
         - If you need art, select Design when submitting your request. The timeline for this type of print piece is 24 days.
         - If artwork already exists, we need 10 business days for print production.
-          - **Reprints without edits**: 8 business days.
+          - _Reprints without edits_: 8 business days.
         - Timelines may change due to high volume of print projects.
         - Some projects require more than two weeks for production (booklets, custom printing, outsourced materials).
 	- **Videography/Photography**: One week before your requested shooting date. Advanced booking is recommended to guarantee staffing availability.
