@@ -1,6 +1,6 @@
 
 $primary-color: #6bac43;
-$highlight-color: #fafcfc;
+$highlight-color: #f7f7f9;
 
 /* ----------------------------------------------------------------------------
  * Fonts
@@ -80,8 +80,7 @@ a {
 
 .content {
   @media (max-width: 480px) {
-    padding: 20px;
-    padding-top: 40px;
+    padding: 25px !important;
   }
   p, ul, ol, h1, h2, h3, h4, h5, h6, pre, blockquote {
     padding: 10px 0;
@@ -239,8 +238,8 @@ a {
       left:-800px;
       right: -800px;
       background: $highlight-color;
-      border-top: 1px solid #f0f4f7;
-      border-bottom: 1px solid #f0f4f7;
+      border-top: 1px solid #e1e1e8;
+      border-bottom: 1px solid #e1e1e8;
     }
   }
   h1, h2, h3 {
