@@ -36,6 +36,7 @@ Define the content, intended uses, and requested timelines for each item you’l
         - Some projects require more than two weeks for production (booklets, custom printing, outsourced materials).
 	- **Videography/Photography**: One week before your requested shooting date. Advanced booking is recommended to guarantee staffing availability.
 	- **Video Production**: (incomplete section)
+  - **Screen Graphics**: 10 days in advance.
 	- **Web/Social Media**: 10 days in advance.
 	- **Drafts/Proofing**: Drafts are scheduled by the creative team through Asana. We’ll use PDFs for proofing and corrections or comments should be left through Asana.
 
@@ -106,10 +107,11 @@ Give your request a clear, descriptive title.
 Options include: Postcards, Brochures, Posters, Tickets, Booklets, Letterhead, Envelopes, Business Cards, Inserts, Cards (Registration/Connection/Invitation), Name Tags, Storyboard Flyers, Table Toppers, Bulletin Back Ad, Small Sign (bathroom/booth), Perforated Piece, Binder Tabs, Address Label, CD/DVD Label, Mailers, Banners, Custom Job.
 - **Videography/Photography**: Have a videographer or photographer at your event or ministry.
 - **Video Production**: For all video projects. (Testimonies, Spotlights, Videos for worship, EP, or sermons, etc.)
+- **Screen Graphics**: For your presentations at church: ProPresenter Slides, PowerPoint Templates, EP Graphics, etc.
 - **Web**: New content and updates on [northpointe.org](northpointe.org).
 - **Social Media**: [Facebook](https://www.facebook.com/NPCCFresno), [Twitter](https://twitter.com/npccfresno), [Instagram](https://instagram.com/npccfresno/), Email, Constant Contact
 
-For request turnaround times see [Production Timelines](#marketing-request-guide-planning-production-timelines). 
+For request turnaround times see [Production Timelines](#marketing-request-guide-planning-production-timelines).  
 
 ## Once Your Request is Submitted
 
