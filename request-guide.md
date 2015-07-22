@@ -13,8 +13,7 @@ Create a list of all promo items needed for your ministry or event.
 
 - Break your list into phases, as this will help you with submitting and organizing your Marketing Requests. Submit a new form entry for each Phase of your event or ministry.
 
-Example **Servolution**
-
+> **Servolution**  
  - **Phase 1**: Main Brand or Identity - Developing the look and feel of the campaign.
  - **Phase 2**: Recruiting small group leaders.
  - **Phase 3**: Sign-ups for Small Groups, and promoting the Campaign itself
@@ -32,7 +31,7 @@ Define the content, intended uses, and requested timelines for each item you’l
     - **Printed Pieces**:
         - If you need art, select Design when submitting your request. The timeline for this type of print piece is 24 days.
         - If artwork already exists, we need 10 business days for print production.
-          - _Reprints without edits_: 8 business days.
+        - _Reprints without edits_: 5 business days.
         - Timelines may change due to high volume of print projects.
         - Some projects require more than two weeks for production (booklets, custom printing, outsourced materials).
 	- **Videography/Photography**: One week before your requested shooting date. Advanced booking is recommended to guarantee staffing availability.
