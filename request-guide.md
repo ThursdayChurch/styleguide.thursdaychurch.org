@@ -49,6 +49,12 @@ Consider extras needed for other purposes. An insert might be used by another mi
 ### NorthPointe Style Guide
 ### Writing with Clarity
 
+[Clarity App](http://clarityapp.northpointe.org/) makes your writing clear, positive, and easy to understand. It's like spellcheck, but for style. It makes sure that your reader will focus on your message, not your prose.
+
+Too often, our words are like our thoughts — innumerable and disorganized. Almost any bit of writing could use some cutting. Less is more, etc.
+
+So, the Clarity will highlight where your writing is too dense or complicated. Try removing needless words or splitting the sentence into two. Your readers will thank you.
+
 ### Pre-Submission Checklist
 
 #### Summary
