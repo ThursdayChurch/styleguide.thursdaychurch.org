@@ -1,7 +1,7 @@
 Marketing Request Guide
 =======================
 
-This hasn’t been developed yet… it will be. Until then.
+A resource to help you with your marketing requests.
 
 
 ## Planning
@@ -53,7 +53,7 @@ Consider extras needed for other purposes. An insert might be used by another mi
 
 Too often, our words are like our thoughts — innumerable and disorganized. Almost any bit of writing could use some cutting. Less is more, etc.
 
-So, the Clarity will highlight where your writing is too dense or complicated. Try removing needless words or splitting the sentence into two. Your readers will thank you.
+The Clarity App will highlight where your writing is too dense or complicated. Try removing needless words or splitting the sentence into two. Your readers will thank you.
 
 ### Pre-Submission Checklist
 
