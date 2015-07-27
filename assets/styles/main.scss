@@ -226,8 +226,9 @@ a {
   blockquote {
     // color: $primary-color;
     position:relative;
-
     text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    padding:15px 20px;
+    margin: 0 0 10px;
     &:before{
         content: "";
       position: absolute;
