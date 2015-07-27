@@ -35,7 +35,7 @@ Define the content, intended uses, and requested timelines for each item you’l
         - Timelines may change due to high volume of print projects.
         - Some projects require more than two weeks for production (booklets, custom printing, outsourced materials).
 	- **Videography/Photography**: One week before your requested shooting date. Advanced booking is recommended to guarantee staffing availability.
-	- **Video Production**: (incomplete section)
+	- **Video Production**: CREATIVE VIDEOS: **4 full weeks** prior to when it will be shown or posted online. Note: Videos for Easter, Christmas, Summer Extreme Days, or other large events usually need more than 4 weeks lead time, as there may be more hands/teams involved in the process. PROMO/SPOTLIGHT VIDEOS: **3 full weeks** prior to when it will be shown. Example: If a Video spotlight is requested for the date of Sunday, April 26, it would need to be in by Thursday, April 2 at the 11am marketing meeting. **We will help coordinate healthy and fair timelines pending approval of your project.**
   - **Screen Graphics**: 10 days in advance.
 	- **Web/Social Media**: 10 days in advance.
 	- **Drafts/Proofing**: Drafts are scheduled by the creative team through Asana. We’ll use PDFs for proofing and corrections or comments should be left through Asana.
