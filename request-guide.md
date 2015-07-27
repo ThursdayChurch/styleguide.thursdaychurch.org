@@ -14,28 +14,31 @@ Create a list of all promo items needed for your ministry or event.
 - Break your list into phases, as this will help you with submitting and organizing your Marketing Requests. Submit a new form entry for each Phase of your event or ministry.
 
 > **Servolution**  
- - **Phase 1**: Main Brand or Identity - Developing the look and feel of the campaign.
- - **Phase 2**: Recruiting small group leaders.
- - **Phase 3**: Sign-ups for Small Groups, and promoting the Campaign itself
- - **Phase 4**: Servolution _Do Something_ Serve Day
+>
+>	- **Phase 1**: Main Brand or Identity - Developing the look and feel of the campaign.  
+>	- **Phase 2**: Recruiting small group leaders.  
+>	- **Phase 3**: Sign-ups for Small Groups, and promoting the Campaign itself  
+>	- **Phase 4**: Servolution _Do Something_ Serve Day 
 
 ### Production Timelines
 
 Define the content, intended uses, and requested timelines for each item you’ll request.
 
 - Timeline info for requests and production of your requested project:
-    - **Marketing Requests**: 3 business days for review of projects. Bulletin and Vibe requests are the only exceptions to this.
-    - **Bulletin**: By 5pm Tuesday, the week of. Will print either Wednesday or Thursday of that same week.
-    - **Vibe**: By 10am Thursday, the week before your announcement request.
-    - **Design**: At least of two weeks, dependent on scope of project.
-    - **Printed Pieces**:
-        - If you need art, select Design when submitting your request. The timeline for this type of print piece is 24 days.
-        - If artwork already exists, we need 10 business days for print production.
-        - _Reprints without edits_: 5 business days.
-        - Timelines may change due to high volume of print projects.
-        - Some projects require more than two weeks for production (booklets, custom printing, outsourced materials).
-	- **Videography/Photography**: One week before your requested shooting date. Advanced booking is recommended to guarantee staffing availability.
-	- **Video Production**: CREATIVE VIDEOS: **4 full weeks** prior to when it will be shown or posted online. Note: Videos for Easter, Christmas, Summer Extreme Days, or other large events usually need more than 4 weeks lead time, as there may be more hands/teams involved in the process. PROMO/SPOTLIGHT VIDEOS: **3 full weeks** prior to when it will be shown. **We will help coordinate healthy and fair timelines pending approval of your project.**
+  - **Marketing Requests**: 3 business days for review of projects. Bulletin and Vibe requests are the only exceptions to this.
+  - **Bulletin**: By 5pm Tuesday, the week of. Will print either Wednesday or Thursday of that same week.
+  - **Vibe**: By 10am Thursday, the week before your announcement request.
+  - **Design**: At least of two weeks, dependent on scope of project.
+  - **Printed Pieces**:
+    - If you need art, select Design when submitting your request. The timeline for this type of print piece is 24 days.
+    - If artwork already exists, we need 10 business days for print production.
+    - _Reprints without edits_: 5 business days.
+    - Timelines may change due to high volume of print projects.
+    - Some projects require more than two weeks for production (booklets, custom printing, outsourced materials).
+  - **Videography/Photography**: One week before your requested shooting date. Advanced booking is recommended to guarantee staffing availability.
+  - **Video Production**: 
+    - **Creative Videos**: 4 weeks before showing, or posting online. _Videos for Easter, Christmas, Summer Extreme Days, or other large events usually need more than 4 weeks lead time, as there may be more hands/teams involved in the process._
+    - **Spotlight Videos**: 3 weeks before showing. We will help coordinate healthy and fair timelines pending approval of your project.
   - **Screen Graphics**: 10 days in advance.
   - **Web/Social Media**: 10 days in advance.
   - **Drafts/Proofing**: Drafts are scheduled by the creative team through Asana. We’ll use PDFs for proofing and corrections or comments should be left through Asana.
