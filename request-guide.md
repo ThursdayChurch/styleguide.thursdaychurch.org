@@ -113,7 +113,7 @@ Give your request a clear, descriptive title.
 - **Vibe**: Video announcement requests.
 - **Design**: For graphic design: logos, artwork, series art, branding for events.
 - **Print**: Anything printed in quantities greater than 25 (color, single-sided) or 100 (black and white, single-sided).
-Options include: Reprints, Postcards, Brochures, Posters, Tickets, Booklets, Letterhead, Envelopes, Business Cards, Inserts, Cards (Registration/Connection/Invitation), Name Tags, Storyboard Flyers, Table Toppers, Bulletin Back Ad, Small Sign (bathroom/booth), Perforated Piece, Binder Tabs, Address Label, CD/DVD Label, Mailers, Banners, Custom Job.
+    - Options include: Reprints, Postcards, Brochures, Posters, Tickets, Booklets, Letterhead, Envelopes, Business Cards, Inserts, Cards (Registration/Connection/Invitation), Name Tags, Storyboard Flyers, Table Toppers, Bulletin Back Ad, Small Sign (bathroom/booth), Perforated Piece, Binder Tabs, Address Label, CD/DVD Label, Mailers, Banners, Custom Job.
 - **Videography/Photography**: Have a videographer or photographer at your event or ministry.
 - **Video Production**: For all video projects. (Testimonies, Spotlights, Videos for worship, EP, or sermons, etc.)
 - **Screen Graphics**: For your presentations at church: ProPresenter Slides, PowerPoint Templates, EP Graphics, etc.
