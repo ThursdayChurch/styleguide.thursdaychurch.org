@@ -35,7 +35,7 @@ Define the content, intended uses, and requested timelines for each item you’l
     - _Reprints without edits_: 5 business days.
     - Timelines may change due to high volume of print projects.
     - Some projects require more than two weeks for production (booklets, custom printing, outsourced materials).
-  - **Videography/Photography**: One week before your requested shooting date. Advanced booking is recommended to guarantee staffing availability.
+  - **Videography/Photography**: One week before your requested shooting date. Advanced booking is recommended to ensure staffing availability.
   - **Video Production**: 
     - **Creative Videos**: 4 weeks before showing, or posting online. _Videos for Easter, Christmas, Summer Extreme Days, or other large events usually need more than 4 weeks lead time, as there may be more hands/teams involved in the process._
     - **Spotlight Videos**: 3 weeks before showing. We will help coordinate healthy and fair timelines pending approval of your project.
@@ -45,7 +45,7 @@ Define the content, intended uses, and requested timelines for each item you’l
 
 Consider other items you may need at your event or for your ministry.
 
-> The Men’s Conference needs slides and brochures for Men’s Breakfast, Men’s Studies, and Marriage Ministry.
+> The Men’s Conference may need slides and brochures for Men’s Breakfast, Men’s Studies, and Marriage Ministry.
 
 Consider extras needed for other purposes. An insert might be used by another ministry or for external promotion outside NorthPointe.
 
@@ -100,7 +100,7 @@ Fill out the Marketing Request Form at [northpointe.org/forms/marketing](northpo
 ### Request Title
 
 Give your request a clear, descriptive title.
-> Breathe Women’s Bible Study, Corner Banner for Branded - Summer XD 2015, Servolution - Small Group Sign Ups, Nail Benders monthly meeting, Summer Splash Baptism and Movie Night, etc.
+> Breathe Women’s Bible Study, Corner Banner for Branded - Summer XD 2015, Servolution - Small Group Sign Ups, Nailbenders monthly meeting, Summer Splash Baptism and Movie Night, etc.
 
 ### Ministry Support or Event?
 - For an event (*Girl’s Night Out*, *Men’s Breakfast*, *Serve Day*, etc) select Event.
@@ -112,8 +112,8 @@ Give your request a clear, descriptive title.
 - **Bulletin**: Bulletin write-up requests.
 - **Vibe**: Video announcement requests.
 - **Design**: For graphic design: logos, artwork, series art, branding for events.
-- **Print**: Anything printed in bulk.
-Options include: Postcards, Brochures, Posters, Tickets, Booklets, Letterhead, Envelopes, Business Cards, Inserts, Cards (Registration/Connection/Invitation), Name Tags, Storyboard Flyers, Table Toppers, Bulletin Back Ad, Small Sign (bathroom/booth), Perforated Piece, Binder Tabs, Address Label, CD/DVD Label, Mailers, Banners, Custom Job.
+- **Print**: Anything printed in quantities greater than 25 (color, single-sided) or 100 (black and white, single-sided).
+Options include: Reprints, Postcards, Brochures, Posters, Tickets, Booklets, Letterhead, Envelopes, Business Cards, Inserts, Cards (Registration/Connection/Invitation), Name Tags, Storyboard Flyers, Table Toppers, Bulletin Back Ad, Small Sign (bathroom/booth), Perforated Piece, Binder Tabs, Address Label, CD/DVD Label, Mailers, Banners, Custom Job.
 - **Videography/Photography**: Have a videographer or photographer at your event or ministry.
 - **Video Production**: For all video projects. (Testimonies, Spotlights, Videos for worship, EP, or sermons, etc.)
 - **Screen Graphics**: For your presentations at church: ProPresenter Slides, PowerPoint Templates, EP Graphics, etc.
