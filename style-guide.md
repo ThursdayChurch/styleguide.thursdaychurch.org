@@ -429,7 +429,7 @@ Word and Phrase Bank
 - College at NorthPointe
 - Core Class
 - KidsCore
-- NailBenders
+- Nailbenders
 - NP Kids
 - The Outlet
 - Small Groups
