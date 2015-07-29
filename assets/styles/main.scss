@@ -593,8 +593,9 @@ body.no-literate .content pre > code {
     text-rendering: optimizeLegibility;
     font-weight: bold;
     font-family: "canada-type-gibson", Gibson, sans-serif;
-    font-size: 13px;
+    font-size: 20px;
     color: #fff;
+    letter-spacing: .2px;
     a {
       color: #fff;
       &:hover {
@@ -608,6 +609,10 @@ body.no-literate .content pre > code {
     display: block;
     &:hover {
       color: $highlight-color;
+    }
+    &.active{
+      // color:$primary-color;
+      text-decoration: underline;
     }
   }
 }
