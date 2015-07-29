@@ -61,7 +61,7 @@ Say what’s important. Forget the rest.
 1. Use present tense: “NorthPointe gives”, and the present perfect: “We’ve meticulously crafted”
 2. Write from the first person plural perspective: we, not they
 3. Be brief and speak directly.
-4. Avoid exclamation points. If you must exclaim, use words that do  the exclaiming for you.
+4. Avoid exclamation points. If you must exclaim, use words that do the exclaiming for you.
 5. Never use all caps (unless it’s an abbreviation).
 
 
@@ -121,7 +121,7 @@ Before turning in an article or devotional, ask yourself these questions:
 A well written event page is worth it’s weight in gold. It can inform people who are already going, and convince guests who are on the fence about going.
 
 #### Start with Why.
-First identify who your ideal attendees are. Once you’ve narrowed your target demographic,  it makes it easier to answer these questions:
+First identify who your ideal attendees are. Once you’ve narrowed your target demographic, it makes it easier to answer these questions:
 
 - What makes your event different?
 - Why would someone want to attend?
@@ -188,7 +188,7 @@ They're apprehensive, nervous, maybe a bit anxious. NorthPointe is all about rea
 
 #### Bad
 
-> **NORTHPOINTE 25TH ANNIVERSARY!**  
+> **NorthPointe 25TH Anniversary!**  
 NorthPointe Community Church is celebrating their 25th anniversary on September 21 at 6pm in Grizzly Stadium. God has done so much for us in 25 years at NorthPointe. 
 
 - No need for exclamation points in a well-crafted headline
@@ -199,7 +199,7 @@ NorthPointe Community Church is celebrating their 25th anniversary on September 
 
 #### Good
 
-> **GET READY TO CELEBRATE.**  
+> **Get Ready to Celebrate.**  
 Over the past twenty-five years of
 ministry at NorthPointe God has
 been powerfully at work in our midst,
@@ -263,7 +263,7 @@ Edit your work until it’s clear, honest, and sounds like something you’d say
 
 ### Formatting
 
-- *Dates* - Saturday, Nov 16 or Every Saturday // DEVELOPING
+- *Dates* - Saturday, Nov 16 or Every Saturday
 - *Times* - 6:30pm, 6pm (No space or periods)
 
 #### Bulletin Blacklist
@@ -334,7 +334,7 @@ Use mainly for time and date ranges. No space on either side (_The event is from
 Go easy on the exclamation points! Only use exclamation points when you’re basically giving someone a high five. Never use them in titles or headings.
 
 #### Hyphens (-)
-Use a hyphen whenever ambiguity would result if it were omitted: T​he president will speak to small-business men. (​B​usinessmen​normally is one word. But t​he president will speak to small businessmen​makes it sound like the businessmen are small.)
+Use a hyphen whenever ambiguity would result if it were omitted: T​he president will speak to small-business men. (​B​usinessmen​ normally is one word. But t​he president will speak to small businessmen​ makes it sound like the businessmen are small.)
 
 #### Italics
 Italicize to emphasize a word, cite an example or indicate the title of a long work (books, movies, albums).
@@ -372,7 +372,7 @@ Use all lowercase for email addresses.
 Never publish personal email addresses. Email should only be publicized for direct and personal contact. Call to action requests (i.e. RSVP, Register) should use a form.
 
 #### Job Titles
-When mentioning someone on the NorthPointe staff, always introduce the title after  the first mention of their name. _It was written by Todd Anderson, Worship Pastor. The second mention should only use their first name.
+When mentioning someone on the NorthPointe staff, always introduce the title after the first mention of their name. _It was written by Todd Anderson, Worship Pastor. The second mention should only use their first name.
 
 #### Telephone numbers
 For internal (bulletin) use: 650-2000 ext. 213  
@@ -440,7 +440,8 @@ Word and Phrase Bank
 
 #### NorthPointe Church
 - **Use:**
-	- 
+	- NorthPointe
+	- NorthPointe Church
 - **Avoid:**
 	- NorthPointers
 	- church family
