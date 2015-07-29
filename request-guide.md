@@ -50,6 +50,9 @@ Consider other items you may need at your event or for your ministry.
 Consider extras needed for other purposes. An insert might be used by another ministry or for external promotion outside NorthPointe.
 
 ### NorthPointe Style Guide
+
+The [Style Guide](http://docs.northpointe.org/) covers some grammar basics, explain the types of content we publish, and give you a sense of NorthPointe’s personality. Consider it a set of standards to help you write solid and engaging content that suits our church—not hard and fast rules. We’d rather be clear, informative, and entertaining writers than grammar nerds any day, so don’t get caught up in the technicalities. And have fun!
+
 ### Writing with Clarity
 
 [Clarity App](http://clarityapp.northpointe.org/) makes your writing clear, positive, and easy to understand. It's like spellcheck, but for style. It makes sure that your reader will focus on your message, not your prose.
