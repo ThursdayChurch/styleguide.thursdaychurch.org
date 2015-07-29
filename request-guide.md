@@ -31,11 +31,11 @@ Define the content, intended uses, and requested timelines for each item you’l
   - **Design**: At least of two weeks, dependent on scope of project.
   - **Printed Pieces**:
     - If you need art, select Design when submitting your request. The timeline for this type of print piece is 24 days.
-    - If artwork already exists, we need 10 business days for print production.
+    - If artwork exists: 10 business days.
     - _Reprints without edits_: 5 business days.
     - Timelines may change due to high volume of print projects.
     - Some projects require more than two weeks for production (booklets, custom printing, outsourced materials).
-  - **Videography/Photography**: One week before your requested shooting date. Advanced booking is recommended to ensure staffing availability.
+  - **Videography/Photography**: One week before your requested shooting date. Advanced booking is recommended to guarantee staffing availability.
   - **Video Production**: 
     - **Creative Videos**: 4 weeks before showing, or posting online. _Videos for Easter, Christmas, Summer Extreme Days, or other large events usually need more than 4 weeks lead time, as there may be more hands/teams involved in the process._
     - **Spotlight Videos**: 3 weeks before showing. We will help coordinate healthy and fair timelines pending approval of your project.
@@ -86,7 +86,7 @@ The Clarity App will highlight where your writing is too dense or complicated. T
 
 #### Quality
 
-- Writing meets style guide standards, and has been proofed by at least one other person.
+- Writing meets style guide standards, and proofed by at least one other person.
 - Room reserved and confirmed in facilities scheduler
 - Online registration URL ready. (If using ACS for registration)
 
