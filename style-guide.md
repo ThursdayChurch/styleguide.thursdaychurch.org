@@ -330,6 +330,9 @@ Use as an abrupt change in a thought or sentence. No space on either side (_On s
 #### En Dashes (–)
 Use mainly for time and date ranges. No space on either side (_The event is from 9–5pm_). For Mac, use shortcut `option+-`, for Windows, use shortcut `alt+0150`.
 
+#### End Marks
+Use only one space between an end mark (period, question mark, or exclamation point) and the beginning of a new sentence—never two. Omit periods in incomlete sentences.
+
 #### Exclamation points
 Go easy on the exclamation points! Only use exclamation points when you’re basically giving someone a high five. Never use them in titles or headings.
 
