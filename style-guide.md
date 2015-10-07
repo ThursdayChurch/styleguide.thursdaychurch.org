@@ -322,7 +322,17 @@ Otherwise, follow common sense with commas. Read the sentence aloud. If you need
 Use them!
 
 #### Dates
-Spell out the day and abbreviate the month. *Sunday, Jan 24*
+
+- Capitalize month names in all uses.
+- Spell out the day and abbreviate the month. *Sunday, Jan 24*
+- Do not ordinalize dates by adding _st,nd,_ or _th_ 
+- Ranges
+	- For "pure" ranges, use an En Dash with no space on either side.
+	- For date ranges in the same month _January 5–6, 2015_
+	- Year Ranges _2014–2015_
+	- Month Ranges _May–June 2015_
+	- Between specific dates in different months _January 10 – August 18, 2015_
+	- Between dates in different years _January 1, 1908 – August 1, 2012_
 
 #### Em Dashes (—)
 Use as an abrupt change in a thought or sentence. No space on either side (_On second thought—I don’t agree_). For Mac, use shortcut `shift+option+-`, for Windows, use shortcut `alt+0151`.
