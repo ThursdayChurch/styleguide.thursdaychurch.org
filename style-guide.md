@@ -385,7 +385,7 @@ Use all lowercase for email addresses.
 Never publish personal email addresses. Email should only be publicized for direct and personal contact. Call to action requests (i.e. RSVP, Register) should use a form.
 
 #### Job Titles
-When mentioning someone on the NorthPointe staff, always introduce the title after the first mention of their name. _It was written by Todd Anderson, Worship Pastor. The second mention should only use their first name.
+When mentioning someone on the NorthPointe staff, always introduce the title after the first mention of their name. _It was written by Todd Anderson, Worship Pastor._ The second mention should only use their first name.
 
 #### Telephone numbers
 For internal (bulletin) use: 650-2000 ext. 213  
