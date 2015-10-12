@@ -296,6 +296,9 @@ Do not use in place of _and_, except as part of a graphic design or logo.
 - Singular proper names ending in _s_: Use only an apostrophe, e.g. _Jesus’ disciples._
 - When a proper noun is already plural, the usual rule for possessives applies, e.g. _The Smiths’, Rolling Stones’_.
 
+#### At Sign (@)
+Do not use in place of _at_, except as part of a Twitter, Instagram, or email address.
+
 #### Capitalization
 Use common sense. When in doubt, don’t capitalize. All caps is like yelling, just say no. Do *not* capitalize these words: website, internet, online, email. Capitalize pronouns when referencing God. *Examples: Creator, God, Father, Holy Sprit, He, Him, His*
 
