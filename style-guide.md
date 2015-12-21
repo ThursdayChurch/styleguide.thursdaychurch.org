@@ -268,7 +268,7 @@ Edit your work until it’s clear, honest, and sounds like something you’d say
 
 #### Bulletin Blacklist
 
-- NPCC (Only acceptable for social media, and web to differentiate from Northpointe Atlanta)
+- NPCC (Only acceptable for social media, and web to differentiate from North Point Atlanta)
 - Ministry
 - “Air Quotes”
 
@@ -344,7 +344,7 @@ Use as an abrupt change in a thought or sentence. No space on either side (_On s
 Use mainly for time and date ranges. No space on either side (_The event is from 9–5pm_). For Mac, use shortcut `option+-`, for Windows, use shortcut `alt+0150`.
 
 #### End Marks
-Use only one space between an end mark (period, question mark, or exclamation point) and the beginning of a new sentence—never two. Omit periods in incomlete sentences.
+Use only one space between an end mark (period, question mark, or exclamation point) and the beginning of a new sentence—never two. Omit periods in incomplete sentences.
 
 #### Exclamation points
 Go easy on the exclamation points! Only use exclamation points when you’re basically giving someone a high five. Never use them in titles or headings.
@@ -397,16 +397,16 @@ For external (web) use: (559) 650-2000 ext. 213
 Note: Never publish personal phone numbers. Always use a NorthPointe phone number and extension.
 
 #### Times
-Use numerals and am or pm without a space. Don’t use minutes for on-the hour times. *7am 10:30pm*
+Use numerals and am or pm without a space. Don’t use minutes for on-the hour times. _7am, 10:30pm_
 Use a hyphen between times to indicate a time period.  
-7am-10:30pm
-7-10am
+_7am-10:30pm_
+_7-10am_
 
 #### Web Addresses
 Always lowercase, and italicize. Never use www.  
 When the URL doesn’t fit on one line, break it into two or more lines without adding a hyphen or other punctuation mark.  
 If the URL is the last word in a paragraph, do not add punctuation to the end of the sentence.
-*northpointe.org*
+_northpointe.org_
 
 
 ### Biblical Style
@@ -415,9 +415,9 @@ If the URL is the last word in a paragraph, do not add punctuation to the end of
 - Whether using HCSB or another version, always cite the version after the verse.
 
 #### Scripture References
-Never abbreviate books of the Bible *Mark 3:21, Luke 2:10-11*
+Never abbreviate books of the Bible _Mark 3:21, Luke 2:10-11_
 
-When citing translations use capitalized abbreviation ESV, NIV, MSG, NASB, etc. *Mark 3:21 (ESV)*
+When citing translations use capitalized abbreviation ESV, NIV, MSG, NASB, etc. _Mark 3:21 (ESV)_
 
 #### Bible
 
@@ -425,7 +425,7 @@ When citing translations use capitalized abbreviation ESV, NIV, MSG, NASB, etc. 
 	- Studies
 	- Scripture
 	- Reading Plans
-	- Bible, bliblical
+	- Bible, biblical
 - **Avoid:**
 	- God’s Word
 	- quiet time
