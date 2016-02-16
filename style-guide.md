@@ -521,6 +521,7 @@ Word and Phrase Bank
 - **Avoid:**
 	- NorthPointers
 	- church family
+	- NPCC
 
 #### Baptism
 
