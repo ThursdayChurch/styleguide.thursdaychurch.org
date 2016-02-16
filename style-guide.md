@@ -74,7 +74,7 @@ Is it friendly?
 Is it true?
 
 
-Writing for the web
+Writing for the Web
 -------------------
 
 Don't skip the research. Know your stuff.
@@ -83,7 +83,7 @@ Understand what you're saying and where you're saying it. A website is not the s
 Use the inverted pyramid style (Information/content flows top to bottom from most important to least important)
 Use short phrases
 Use active voice
-Never use "click on" or "click here"
+Never use _click on_ or _click here_
 
 ### Blog Posts
 
@@ -116,9 +116,9 @@ Before turning in an article or devotional, ask yourself these questions:
 
 *Portions of this section were graciously provided by [NewSpring Church](http://newspring.cc)*
 
-### Event Write-ups
+### Events
 
-A well written event page is worth it’s weight in gold. It can inform people who are already going, and convince guests who are on the fence about going.
+A well written event page is worth its weight in gold. It can inform people who are already going, and convince guests who are on the fence about going.
 
 #### Start with Why.
 First identify who your ideal attendees are. Once you’ve narrowed your target demographic, it makes it easier to answer these questions:
@@ -143,17 +143,73 @@ Read everything you’ve written out loud. Everything you write will make perfec
 - Use words that are absolutely inclusive, and point to the future. (*Join us* is an invitation to an event already in progress)
 - Don’t start with what you’ll learn, start with why you’d want to learn it.
 
-### Email
+### Personal Email
+Email at NorthPointe should be clear, concise, and fast. Most people are busy, and we don’t want to tie them up any longer than necessary. Don’t write lengthy novels, or include information they don’t need. Focus on communicating in the shortest period possible.
+
+If you communicate clearly, you’ll be concise. And if you’re concise, you’ll be fast.
+
+#### Guidelines
+- Respond quickly. Aim to respond to emails within a work day. If you’re unavailable, set an out-of-office notification.
+- Write in short paragraphs, with no more than 300 words.
+- Use expressive and compelling subject lines. Leaders like _For Approval:, Meeting Request:, or FYI:_ indicate what action is needed.
+- Email stationary, or non-default fonts add unnecessary clutter and should be removed.
+
+#### Identify the Main Point or Action Item
+- Before you begin the email, condense what you want your audience to know in one or two sentences.
+- The “why” of your email should not be more than one or two sentences.
+- Vision is important to include in your emails, but make sure you don’t bury critical information underneath unnecessary sentences.
+- Make it as easy as possible for your reader to pinpoint what they need to know or do, either by writing it towards the beginning of the content, or by formatting it in **bold face**.
+
+#### Be Mindful of Your Tone
+- Your choice words, sentence length, punctuation, and capitalization can easily be misinterpreted without visual and auditory cues.
+- The cleaner and more concise you can get your email, the better your conversation is going to be.
+
+#### Consider Your Audience
+- Always aim the language towards your newest or least informed recipient. If you are sending an email to an entire team of volunteers, communicate at the level of the person who joined last week. They may not be familiar with the language you would normally use with someone who has been working with NorthPointe for a year.
+
+#### Always Proofread Before Sending
+- Double check to make sure your spelling, punctuation, and grammar is correct.
 
 #### Email Signature
 
-> John Smith  
+**Default signature**:
+
+> **John Smith**  
 Administrative Assistant  
-NorthPointe Church  
-northpointe.org  
+[NorthPointe Church](https://www.northpointe.org)  
 (559) 276-2300  
 
+**Acceptable for responses**:
 
+> **John Smith**  | Administrative Assistant  
+[NorthPointe Church](https://www.northpointe.org)  
+
+
+### Email Campaigns
+
+#### Guidelines
+
+##### From name
+Usually _NorthPointe Community Church_ or the ministry name. It identifies the sender in the recipient’s inbox.
+
+##### Subject line
+Keep your subject line descriptive. There’s no perfect length, but some email clients only display the first words. Tell what’s inside. 
+
+##### Preheader text
+The top line of your email appears beside each subject line in the inbox. Provide the info readers need when they’re deciding if they should open.
+
+##### Body copy
+Keep your content concise. Write with a clear purpose, and connect each paragraph to your main idea. Add images when they’re helpful.
+
+##### Call to action
+Make the next step clear. If you’re asking people to go to something, read something, share something, or respond to something, offer a clear direction to close your message so readers know what to do next.
+
+##### Footer
+All campaigns follow CAN-SPAM rules. Include an unsubscribe link, mailing address, and permission reminder in the footer of each newsletter.
+
+
+#### Process
+1. Send a copywriter the body of the email to proof.
 
 ### Storytelling
 
@@ -272,32 +328,17 @@ Edit your work until it’s clear, honest, and sounds like something you’d say
 - Ministry
 - “Air Quotes”
 
-Grammar and More
+Grammar and Mechanics
 ----------------
 
-Grammar is hard.
+Grammar is hard, but following certain rules keeps our writing clear and consistent. This section lays out our house style, which applies to all our content unless otherwise noted in this guide.
 
-### Grammar and Punctuation
+### Guidelines
 
 #### Abbreviations and acronyms
 If there’s a chance a reader won’t recognize an abbreviation or acronym, spell it out the first time. If the abbreviation is more common than the long form, then use the short form (DVD)  
 
 *Never use NPCC*
-
-#### Ampersands (&)
-Do not use in place of _and_, except as part of a graphic design or logo.
-
-#### Apostrophe
-
-- Avoid using apostrophes in plural acronyms, e.g. _CDs, URLs_
-- Plural nouns not ending in _s_: Add _’s_, e.g. _the alumni’s contributions, women’s rights._
-- Plural nouns ending in _s_: Add only an apostrophe: _the churches’ needs, the girls’ toys, the horses’ food, the ships’ wake, states’ rights, the VIPs’ entrance_.
-- For consistency and ease in remembering a rule, always use _’s_ if the word does not end in the letter _s_.
-- Singular proper names ending in _s_: Use only an apostrophe, e.g. _Jesus’ disciples._
-- When a proper noun is already plural, the usual rule for possessives applies, e.g. _The Smiths’, Rolling Stones’_.
-
-#### At Sign (@)
-Do not use in place of _at_, except as part of a Twitter, Instagram, or email address.
 
 #### Capitalization
 Use common sense. When in doubt, don’t capitalize. All caps is like yelling, just say no. Do *not* capitalize these words: website, internet, online, email. Capitalize pronouns when referencing God. *Examples: Creator, God, Father, Holy Sprit, He, Him, His*
@@ -313,13 +354,6 @@ Use common sense. When in doubt, don’t capitalize. All caps is like yelling, j
 - Capitalize names of major events in the life of Jesus Christ that do not use His name_,_ e.g. _the Last Supper, the Crucifixion, the Resurrection, and the Ascension_.
 - Lowercase _heaven, hell, devil, angel, apostle, priest, etc._
 - Capitalize _Hades_ and _Satan_.
-
-#### Commas
-Use the oxford or serial comma.
-
-> We interviewed some of our members, Rick Warren, Oprah, and Justin Timberlake.
-
-Otherwise, follow common sense with commas. Read the sentence aloud. If you need to take a breath, use a comma.
 
 #### Contractions
 Use them!
@@ -337,6 +371,33 @@ Use them!
 	- Between specific dates in different months _January 10 – August 18, 2015_
 	- Between dates in different years _January 1, 1908 – August 1, 2012_
 
+### Punctuation
+
+#### Ampersands (&)
+Do not use in place of _and_, except as part of a graphic design or logo.
+
+#### Apostrophe
+
+- Avoid using apostrophes in plural acronyms, e.g. _CDs, URLs_
+- Plural nouns not ending in _s_: Add _’s_, e.g. _the alumni’s contributions, women’s rights._
+- Plural nouns ending in _s_: Add only an apostrophe: _the churches’ needs, the girls’ toys, the horses’ food, the ships’ wake, states’ rights, the VIPs’ entrance_.
+- For consistency and ease in remembering a rule, always use _’s_ if the word does not end in the letter _s_.
+- Singular proper names ending in _s_: Use only an apostrophe, e.g. _Jesus’ disciples._
+- When a proper noun is already plural, the usual rule for possessives applies, e.g. _The Smiths’, Rolling Stones’_.
+
+#### At Sign (@)
+Do not use in place of _at_, except as part of a Twitter, Instagram, or email address.
+
+#### Commas
+Use the oxford or serial comma.
+
+> We interviewed some of our members, Rick Warren, Oprah, and Justin Timberlake.
+
+Otherwise, follow common sense with commas. Read the sentence aloud. If you need to take a breath, use a comma.
+
+#### Emoji
+Emoji are a fun way to add humor and interest to your writing, but use them infrequently. Currently emoji are only supported in social media and email contexts.
+
 #### Em Dashes (—)
 Use as an abrupt change in a thought or sentence. No space on either side (_On second thought—I don’t agree_). For Mac, use shortcut `shift+option+-`, for Windows, use shortcut `alt+0151`.
 
@@ -350,13 +411,14 @@ Use only one space between an end mark (period, question mark, or exclamation po
 Go easy on the exclamation points! Only use exclamation points when you’re basically giving someone a high five. Never use them in titles or headings.
 
 #### Hyphens (-)
-Use a hyphen whenever ambiguity would result if it were omitted: T​he president will speak to small-business men. (​B​usinessmen​ normally is one word. But t​he president will speak to small businessmen​ makes it sound like the businessmen are small.)
+Use a hyphen whenever ambiguity would result if it were omitted: T​he president will speak to small-business men. (​Businessmen​ normally is one word. But t​he president will speak to small businessmen​ makes it sound like the businessmen are small.)
 
 #### Italics
 Italicize to emphasize a word, cite an example or indicate the title of a long work (books, movies, albums).
 
 Scripture should be Italicized. 
 
+<<<<<<< Updated upstream
 
 #### Numbers
 - Spell out numbers one through nine and use numerals for 10 and above.
@@ -364,6 +426,8 @@ Scripture should be Italicized.
 - Spell out decades _in your thirties_, _The twenty-somethings_
 - Use a hyphen for a span of numbers. _It takes 20-30 days_
 
+=======
+>>>>>>> Stashed changes
 #### Pronouns
 Don’t use “they” or “one” as singular pronouns. Use “she” or “he” or avoid it altogether.
 
@@ -390,6 +454,12 @@ Never publish personal email addresses. Email should only be publicized for dire
 #### Job Titles
 When mentioning someone on the NorthPointe staff, always introduce the title after the first mention of their name. _It was written by Todd Anderson, Worship Pastor._ The second mention should only use their first name.
 
+#### Numbers
+- Spell out numbers one through nine and use numerals for 10 and above.
+- Ages: Use numerals for specific ages (“The 5-year-old had a party,” “She was turning 30”)
+- Spell out decades _in your thirties_, _The twenty-somethings_
+- Use a hyphen for a span of numbers. *It takes 20-30 days*
+
 #### Telephone numbers
 For internal (bulletin) use: 650-2000 ext. 213  
 For external (web) use: (559) 650-2000 ext. 213  
@@ -403,7 +473,7 @@ _7am-10:30pm_
 _7-10am_
 
 #### Web Addresses
-Always lowercase, and italicize. Never use www.  
+Always lowercase, and italicize. Drop the _http://www._
 When the URL doesn’t fit on one line, break it into two or more lines without adding a hyphen or other punctuation mark.  
 If the URL is the last word in a paragraph, do not add punctuation to the end of the sentence.
 _northpointe.org_
