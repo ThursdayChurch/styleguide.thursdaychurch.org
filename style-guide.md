@@ -418,16 +418,6 @@ Italicize to emphasize a word, cite an example or indicate the title of a long w
 
 Scripture should be Italicized. 
 
-<<<<<<< Updated upstream
-
-#### Numbers
-- Spell out numbers one through nine and use numerals for 10 and above.
-- Ages: Use numerals for specific ages _The 5-year-old had a party_, _She was turning 30_
-- Spell out decades _in your thirties_, _The twenty-somethings_
-- Use a hyphen for a span of numbers. _It takes 20-30 days_
-
-=======
->>>>>>> Stashed changes
 #### Pronouns
 Don’t use “they” or “one” as singular pronouns. Use “she” or “he” or avoid it altogether.
 
