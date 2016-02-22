@@ -176,13 +176,13 @@ If you communicate clearly, you’ll be concise. And if you’re concise, you’
 
 > **John Smith**  
 Administrative Assistant  
-[NorthPointe Church](https://www.northpointe.org)  
+[NorthPointe Community Church](https://www.northpointe.org)  
 (559) 276-2300  
 
 **Acceptable for responses**:
 
 > **John Smith**  | Administrative Assistant  
-[NorthPointe Church](https://www.northpointe.org)  
+[NorthPointe Community Church](https://www.northpointe.org)  
 
 
 ### Email Campaigns
