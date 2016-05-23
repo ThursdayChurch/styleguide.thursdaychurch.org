@@ -132,7 +132,7 @@ Pretend you know nothing about your event. Include the important details: date, 
 
 Explain the format, make sure to be clear about what people are signing up for.
 
-If you’re not sure if you should include something, you can never provide to many details.
+If you’re not sure if you should include something, you can never provide too many details.
 
 #### Read it.
 Read everything you’ve written out loud. Everything you write will make perfect sense to you, but when you read something out loud, you get a better sense of how a guest is going to understand it. If it doesn’t sound like something you’d say, consider rewriting. Double check to make sure your spelling, grammar, and punctuation is correct.
