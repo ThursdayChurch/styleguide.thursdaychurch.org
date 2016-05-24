@@ -11,7 +11,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.10/clipboard.min.js"></script>
 
 
-
   <!-- Site Properities -->
   <title>NorthPointe Community Church Signature Creator</title>
 
@@ -50,7 +49,7 @@
         <h1 class="center text">
           Email Signature Generator
         </h1>
-        <p class="subtitle center aligned">Give us your details and we'll give you your brand.</p>
+        <p class="subtitle center aligned">Give us your details and we'll give you a signature for your NorthPointe emails.</p>
     </div>
   </div>
   <div class="ui page grid overview segment">
@@ -73,7 +72,7 @@
             </div>
             <div class="field">
               <label>Mobile Phone</label>
-              <input id="mobile" type="text" placeholder="555.555.5555">
+              <input id="mobile" type="text" placeholder="(559) 555-5555">
             </div>
           </div>
 
@@ -145,14 +144,12 @@ var email = 0;
 
     document.getElementById("demo").innerHTML=email;
         document.getElementById("clip_button").innerHTML = "Great job! Again?";
-
         var text = $('#inputId');
         text.val(email);
-
     }
     var clipboard = new Clipboard('#copy-button');
     clipboard.on('success', function(e) {
-      document.getElementById("copy-button").innerHTML = "HTML Copied! Copy again?";
+      document.getElementById("copy-button").innerHTML = "Signature Copied! Copy again?";
       e.clearSelection();
     });
 
