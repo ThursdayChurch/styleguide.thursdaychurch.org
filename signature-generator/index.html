@@ -16,11 +16,9 @@
 
   <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Open+Sans:300italic,400,300,700' rel='stylesheet' type='text/css'>
 
-  <link rel="stylesheet" type="text/css" href="packaged/css/semantic.css">
   <link rel="stylesheet" type="text/css" href="homepage.css">
   <link  href='/dist/styles/main.css' rel='stylesheet'>
 
-  <script src="packaged/javascript/semantic.js"></script>
   <script src="homepage.js"></script>
   <script src="//use.typekit.net/yzr6yyw.js"></script>
   <script>try{Typekit.load();}catch(e){}</script>
@@ -31,7 +29,7 @@
       <div class="left">
         <h1>NorthPointe DOCs</h1>
         <ul>
-          <li><a class="active" href="/">Style Guide</a></li>
+          <li><a href="/">Style Guide</a></li>
           <li><a href="/request-guide">Marketing Guide</a></li>
           <!-- <li><a href='https://github.com/northpointe/northpointe.github.io/issues'>Issues</a></li> -->
         </ul>
@@ -52,12 +50,9 @@
         <p class="subtitle center aligned">Give us your details and we'll give you a signature for your NorthPointe emails.</p>
     </div>
   </div>
-  <div class="ui page grid overview segment">
-    <div class="ui two wide column"></div>
-    <div class="twelve wide column">
-      <div class="ui two column aligned stackable divided grid">
-        <div class="column">
-          <div class="ui form left">
+  <div class="generator">
+    <div class="leftside">
+
             <div class="field">
               <label>First Name</label>
               <input id="first" type="text" placeholder="John">
@@ -71,27 +66,29 @@
               <input id="title" type="text" placeholder="Director of Awesomeness">
             </div>
             <div class="field">
-              <label>Mobile Phone</label>
+              <label>Mobile Phone <i>(Not recommended for most staff)</i></label>
               <input id="mobile" type="text" placeholder="(559) 555-5555">
             </div>
-          </div>
 
           <button type="button" id="clip_button" class="button block-button" onclick="myFunction()">Build My Signature</button>
-        </div>
-        <div class="column">
-          <div id="demo" class="left"></div>
-          <div id="directions" class="left"></div>
+    </div>
+    <div class="rightside">
+          <label>Preview</label>
+          <div id="signature"></div>
+          <div id="directions">
+            <div class="post-gen">
+              <button id="copy-button" class="ui outline button center" type="button" data-clipboard-target="#signature">
+                  Copy Signature
+              </button>
+
+              <p><strong>After copying your signature,</strong>you will need to<br>manually copy and paste it into your email client.</p>
+            </div>
+          </div>
           <br>
-        </div>
-      </div>
+    </div>
+  </div>
 
-      <center class="post-gen">
-        <button id="copy-button" class="ui outline button center" type="button" data-clipboard-target="#demo">
-            Copy Signature
-        </button>
 
-        <p><strong>After copying your signature,</strong>you will need to<br>manually copy and paste it into your email client.</p>
-      </center>
 
     </div>
   </div>
@@ -142,8 +139,8 @@ var email = 0;
 
     var email = emailSig1 + first + ' ' + last + emailSig2 + emailSig3 + mobileline + emailSig5;
 
-    document.getElementById("demo").innerHTML=email;
-        document.getElementById("clip_button").innerHTML = "Great job! Again?";
+    document.getElementById("signature").innerHTML=email;
+        document.getElementById("clip_button").innerHTML = "Update Signature";
         var text = $('#inputId');
         text.val(email);
     }
