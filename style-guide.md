@@ -143,12 +143,14 @@ Read everything you’ve written out loud. Everything you write will make perfec
 - Use words that are absolutely inclusive, and point to the future. (*Join us* is an invitation to an event already in progress)
 - Don’t start with what you’ll learn, start with why you’d want to learn it.
 
-### Personal Email
+Writing for Email
+-----------------
+
 Email at NorthPointe should be clear, concise, and fast. Most people are busy, and we don’t want to tie them up any longer than necessary. Don’t write lengthy novels, or include information they don’t need. Focus on communicating in the shortest period possible.
 
 If you communicate clearly, you’ll be concise. And if you’re concise, you’ll be fast.
 
-#### Guidelines
+### Personal Email
 - Respond quickly. Aim to respond to emails within a work day. If you’re unavailable, set an out-of-office notification.
 - Write in short paragraphs, with no more than 300 words.
 - Use expressive and compelling subject lines. Leaders like _For Approval:, Meeting Request:, or FYI:_ indicate what action is needed.
@@ -170,7 +172,7 @@ If you communicate clearly, you’ll be concise. And if you’re concise, you’
 #### Always Proofread Before Sending
 - Double check to make sure your spelling, punctuation, and grammar is correct.
 
-#### Email Signature
+### Email Signature
 
 **Default signature**:
 
@@ -211,21 +213,6 @@ All campaigns follow CAN-SPAM rules. Include an unsubscribe link, mailing addres
 #### Process
 1. Send a copywriter the body of the email to proof.
 
-### Storytelling
-
-NorthPointe is currently developing a Story Team. 
-
-**What we do**
-- Creatively tell stories of life change through various forms of documentary storytelling.
-- The types of mediums we use are: documentary short films, written word, photography, photo essays, and spoken word.
-
-#### Writing Guidelines
-750-800 Words
-
-#### Photography Guidelines
-1. Types of Photography
-	- Natural Light Portraiture - The only type of lighting we use when shooting Story Team portraits
-	- Documentary / Photojournalism - Feel free to add your own creative touches to the shoot. 
 
 Writing for the Bulletin
 ------------------------
@@ -265,7 +252,7 @@ story. Join us 6pm Saturday, Sept 21 at Grizzly Stadium.
 
 - Headline speaks directly to the audience
 - Prompts involvement from the reader
-“we each have a part...”
+“we each have a part…”
 - Invites the audience to experience something different and new
 - Compels with careful choice of words
 - Offers a clear call to action
@@ -476,6 +463,22 @@ _northpointe.org_
 
 #### Scripture References
 Never abbreviate books of the Bible _Mark 3:21, Luke 2:10-11_
+
+- No space after colon: Matthew 5:5-7
+- Nonconsecutive verses: Matthew 5:5,7 (no space after comma)
+- Consecutive verses: Matthew 5:5-6
+- Consecutive chapters: Genesis 1-5
+- Nonconsecutive chapters: Genesis 1; 5 and/or Exodus 5:1; 12:14-17 (semicolons usually divide chapters)
+- Consecutive verses that span chapters: Isaiah 1:5-2:4
+- Place the end-of-sentence period after the Scripture
+reference, not at the end of quote: “Jesus wept” (John
+11:35). 
+- When part of quote is omitted at end of sentence, the first ellipsis period comes at the end of the last word (as if it were the period) and then put space between other ellipses: “For God so loved. . .” (John 3:16).
+- If the quoted phrase ends with a comma or semicolon, add it and then two periods, the reference, and then the third period: “For God so loved the world, . .” (John 3:16).
+- The correct position of the question mark is: “What must we do, to be doing the works of God” (John 6:28, RSV)?
+- Use a or b with a verse number: Only when the reference is cited and the verse is not quoted: See John 3:16a for a reference to God’s love. But if part of the verse is quoted, use the verse reference only: “For God so loved. . .” (John 3:16).
+- When referring to a Scripture within the text: In 1 John 4:7 (NIV), we read, “Dear Friends, let us love one another.”
+- When referring to a Scripture, but not quoting it: the Bible has many references to God’s love (see John 3:16).
 
 When citing translations use capitalized abbreviation ESV, NIV, MSG, NASB, etc. _Mark 3:21 (ESV)_
 
