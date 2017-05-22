@@ -174,6 +174,8 @@ If you communicate clearly, you’ll be concise. And if you’re concise, you’
 
 ### Email Signature
 
+Use the NorthPointe [Signature Generator](http://docs.northpointe.org/signature-generator/).
+
 **Default signature**:
 
 > **John Smith**  
@@ -243,12 +245,7 @@ NorthPointe Community Church is celebrating their 25th anniversary on September 
 #### Good
 
 > **Get Ready to Celebrate.**  
-Over the past twenty-five years of
-ministry at NorthPointe God has
-been powerfully at work in our midst,
-transforming countless lives into the image
-of His Son. And we each have a part in this
-story. Join us 6pm Saturday, Sept 21 at Grizzly Stadium. 
+Over the past twenty-five years of ministry at NorthPointe God has been powerfully at work in our midst, transforming countless lives into the image of His Son. And we each have a part in this story. Join us 6pm Saturday, Sept 21 at Grizzly Stadium. 
 
 - Headline speaks directly to the audience
 - Prompts involvement from the reader
@@ -415,10 +412,10 @@ Don’t underline things.
 
 #### Addresses
 **One Line**  
-2787 W. Bullard Ave., Suite 101 Fresno, CA 93711
+2787 W Bullard Ave, Suite 101, Fresno, CA 93711
 
 **Multiple Line**  
-2787 W. Bullard Ave.  
+2787 W Bullard Ave  
 Suite 101  
 Fresno, CA 93711
 
@@ -512,6 +509,7 @@ Word and Phrase Bank
 - NP Kids
 - The Outlet
 - Small Groups
+- Summer Extreme Days
 - SURGE
 - wherehouse (always lowercase)
 
@@ -643,14 +641,16 @@ Word and Phrase Bank
 	- Junior High Ministry
 
 ### Word and Phrase Bank
+- email (never hyphenate, never capitalize unless it begins a sentence)
+- emoji (singular and plural)
 - hashtag
 - homepage
 - NPCC.me
 - online
-- signup (noun, adjective)
-- sign up (verb)
+- signup (noun, adjective), sign up (verb)
 - username
-- URL (always uppercase)
+- URL
+- website
 - WiFi
 
 #### Blacklist
