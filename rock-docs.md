@@ -56,7 +56,15 @@ There are two parties involved with every registration that occurs. The registra
 
 #### Automatic Replies
 
-Rock automatically generates a response email with a payment receipt that shows any balance as well as a payment link. To add additional details, submit it as part of your event request, or edit your Registration Instance and look for **Additional Confirmation Details**.
+Rock automatically generates a response email with a payment receipt that shows any balance as well as a payment link.
+
+##### Additional Confirmation Details
+
+Additional Confirmation Details are included with the event registration confirmation email. To add additional details, submit it as part of your event request, or edit your Registration Instance and look for the **Additional Confirmation Details** text box.
+
+##### Additional Reminder Details
+
+Text sent with the optional event reminder email. This email is triggered by setting a **Send Reminder Date** on the event registration instance.
 
 #### Notifications and Registration Contacts
 
