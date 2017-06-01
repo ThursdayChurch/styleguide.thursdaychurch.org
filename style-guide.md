@@ -647,6 +647,7 @@ Word and Phrase Bank
 - homepage
 - NPCC.me
 - online
+- OK, OK'd, OK'ing, OKs.
 - signup (noun, adjective), sign up (verb)
 - username
 - URL
